@@ -1,0 +1,67 @@
+Source: https://lite.cnn.com/2024/01/19/tech/ftc-crackdown-data-inmarket-media/index.html
+
+Feds_crack_down_hard_on_selling_of_personal_data_without_consent
+
+
+  By Brian Fung, CNN
+ 
+Updated: 
+        2:13 PM EST, Fri January 19, 2024
+     
+  Source: CNN
+ 
+  The US government is coming down hard on a data broker accused of selling consumers’ detailed location histories without their consent, highlighting privacy regulators’ growing focus on a sensitive and revealing form of personal information.
+ 
+  For the first time ever, the Federal Trade Commission said Thursday it was banning a company from selling or licensing people’s precise geolocation data as part of a settlement with InMarket Media, a Texas-based data aggregator.
+ 
+  InMarket had allegedly gathered a vast trove of consumer location data from mobile apps and told users that the data would be used to improve the apps’ services — but did not disclose that it would also be used for targeted advertising, according to an FTC complaint.
+ 
+  The FTC alleged that InMarket sliced and diced the location data to produce specific groups of consumers that it could then market to advertisers looking to reach certain categories of people, such as “Christian church goers,” “parents of preschoolers,” high-school students and children who are homeschooled, among others.
+ 
+  But InMarket never got those people’s informed consent before using that data for advertising, according to the FTC.
+ 
+  In addition to banning InMarket from selling or licensing the data, it also forced the company to either delete all of its previously collected location data or to take steps to anonymize it.
+ 
+  In a statement, InMarket said it fundamentally disagreed with the FTC’s allegations, but added that it was pleased the settlement resolves the accusations and that “we are happy to reaffirm the steps InMarket is taking to further our policies around data disclosure and use.”
+ 
+  “As a business that provides marketing solutions, we have no interest in selling consumer location data, and we have confirmed we will not do so,” InMarket said. “Notably, the FTC does not claim there were any issues with our privacy policy nor any specific instances of consumer harm.”
+ 
+  Public awareness of location data’s sensitivity has particularly spiked since the Supreme Court’s reversal of Roe v. Wade and as more states have passed laws permitting the prosecution of abortion-seekers.
+ 
+  Policy experts have highlighted the potential for location data to reveal whether a person has sought certain medical care. Companies such as Google have responded by reducing the amount of time a person’s location history is stored before being automatically deleted, as well as offering new tools giving users more fine-grained control over their location data.
+ 
+  The FTC has a long history of scrutinizing data brokers, and last year the agency announced a sweeping proposal that would limit how businesses nationwide may collect and use consumers’ personal information.
+ 
+  Thursday’s proposed settlement with InMarket comes days after another unprecedented FTC order targeting another data broker — Outlogic, formerly known as X-Mode — that for the first time banned the sale of “sensitive” location data.
+ 
+  Sensitive locations are defined as places including medical facilities, places of worship, prisons, labor union offices, schools and childcare centers and domestic violence shelters, among others.
+ 
+  “All too often, Americans are tracked by serial data hoarders that endlessly vacuum up and use personal information,” FTC Chair Lina Khan said in a statement on the InMarket settlement. “We’ll continue to use all our tools to protect Americans from unchecked corporate surveillance.”
+ See Full Web Article 
+
+      Go to the full CNN experience
+    
+ 
+    © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.
+   
+
+      Terms of Use
+    
+
+      |
+    
+
+      Privacy Policy
+    
+
+      |
+    
+
+      Ad Choices
+    
+
+      |
+    
+
+      Cookie Settings
+    
