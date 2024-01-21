@@ -4,7 +4,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "U.S. elections news summaries",
+  title: "U.S. election tracker",
   description: "A.I. generated news summaries U.S. elections from CNN.",
 };
 
