@@ -1,0 +1,65 @@
+Source: https://lite.cnn.com/2024/01/19/tech/microsoft-russian-hacking-executives/index.html
+
+Microsoft says state-sponsored Russian hacking group accessed email accounts of senior leaders
+
+
+  By Catherine Thorbecke, CNN
+ 
+Updated: 
+        9:52 PM EST, Fri January 19, 2024
+     
+  Source: CNN
+ 
+  A Russian hacking group gained access to some email accounts of Microsoft senior leaders, the software giant disclosed in a regulatory filing Friday afternoon.
+ 
+  “The Microsoft security team detected a nation-state attack on our corporate systems on January 12, 2024, and immediately activated our response process to investigate, disrupt malicious activity, mitigate the attack, and deny the threat actor further access,” the Microsoft Security Response Center said in a blog post. “Microsoft has identified the threat actor as Midnight Blizzard, the Russian state-sponsored actor also known as Nobelium.”
+ 
+  Nobelium, notably, is the same group responsible for the infamous SolarWinds breach back in 2020.
+ 
+  Hackers were able to gain access to “a very small percentage of Microsoft corporate email accounts,” the blog post added, including accounts belonging to members of its senior leadership team and employees in its cybersecurity and legal departments.
+ 
+  The company said that hackers were able to exfiltrate some emails and attached documents, though the preliminary investigation indicates that the attackers seemed to be seeking information related to Midnight Blizzard itself. That mirrors what the same group did when it used tampered software made by SolarWinds to infiltrate US agencies in 2020 — and then sought to track how the US government was responding to its intrusions.
+ 
+  Microsoft said it is in the process of notifying employees whose email was accessed. There is currently no evidence that the hackers had any access to customer environments or AI systems, Microsoft said.
+ 
+  The attack began in late November 2023, the company said, and hackers gained an initial foothold using a so-called “password spray attack.” Password spraying refers to the attempt to access a large number of accounts using commonly known passwords.
+ 
+  The company said the investigation is ongoing and it will continue working with law enforcement and appropriate regulators, pledging to share more information publicly as it becomes available.
+ 
+  The attack highlights “the continued risk posed to all organizations from well-resourced nation-state threat actors like Midnight Blizzard,” the company said.
+ 
+  Microsoft systems have been the target of multiple recent high-profile hacking efforts.
+ 
+  The Cybersecurity and Infrastructure Security Agency did not immediately respond to CNN’s request for comment on the hack Friday. Microsoft declined a request for additional comment.
+ 
+  In an emailed statement to CNN, the FBI said: “The FBI is aware of the incident and we are diligently working with our federal partners to provide assistance. As always, we encourage any victim of a cyber incident to contact their local FBI field office.”
+ 
+This story has been updated with additional developments.
+ See Full Web Article 
+
+      Go to the full CNN experience
+    
+ 
+    © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.
+   
+
+      Terms of Use
+    
+
+      |
+    
+
+      Privacy Policy
+    
+
+      |
+    
+
+      Ad Choices
+    
+
+      |
+    
+
+      Cookie Settings
+    
