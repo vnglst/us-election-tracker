@@ -1,0 +1,65 @@
+Source: https://lite.cnn.com/2024/01/23/tech/amazon-france-fine-worker-surveillance/index.html
+
+Amazon tracks its French warehouse workers to the second, regulator finds
+
+
+  By Anna Cooban, CNN
+ 
+Updated: 
+        8:47 AM EST, Tue January 23, 2024
+     
+  Source: CNN
+ 
+  A French regulator has fined the local operator of Amazon’s warehouses €32 million ($35 million) for using an “excessively intrusive” surveillance system to track the activities of its workers.
+ 
+  The French Data Protection Authority, or the CNIL, said in a statement Tuesday that Amazon France Logistique gave warehouse staff scanners that recorded their periods of inactivity and how quickly they performed certain tasks, such as removing an item from shelves or putting an item away.
+ 
+  The CNIL ruled the scanner system to be “excessive” partly because it measured “work interruptions with such accuracy, potentially requiring employees to justify every break or interruption.”
+ 
+  Amazon (AMZN) said in a statement posted on its European Union site: “We strongly disagree with the CNIL’s conclusions … and we reserve the right to file an appeal.
+ 
+  “Warehouse management systems are industry standard and are necessary for ensuring the safety, quality, and efficiency of operations and to track the storage of inventory and processing of packages on time and in line with customer expectations.”
+ 
+  The scanners used in France measure whether a worker scanned an item less than 1.25 seconds after scanning the previous item, based on the assumption that scanning too quickly increases the risk of error, the regulator said.
+ 
+  Amazon said this indicator was important to ensure that “employees take enough time to store the products so they can follow our safety guidelines” and to properly inspect each parcel before it is stored. But the company has decided to deactivate the collection of this data following the CNIL’s questions, it added.
+ 
+  Secondly, staff were judged to be “idle” if their scanners had been inactive for at least 10 minutes, the regulator found. Amazon said the data allowed its teams to “spot problems” that posed a risk to the firm’s operations or the safety of its employees. The company will now raise the threshold for logging “idle time” to 30 minutes, it noted.
+ 
+  A third indicator used by Amazon signaled when a worker’s scanner was interrupted anywhere between one and 10 minutes, according to the CNIL.
+ 
+  “Such systems kept employees under close surveillance for all tasks carried out with scanners and thus put them under continuous pressure,” the CNIL said, adding that the monitoring gave the company “a competitive advantage” over other companies in the online sales market.
+ 
+  The regulator fined Amazon France Logistique in late December following several investigations into the firm’s practices in its warehouses and complaints from employees. The CNIL found that the warehouse operator had kept data on the performance of its staff for 31 days — a length of time it also deemed “excessive.”
+ 
+  The regulator ruled that the firm had breached several elements of EU data protection law.
+ 
+  In the United States, Amazon has long faced scrutiny for the working conditions inside its warehouses, with employees complaining of punishing hours and close surveillance by bosses.
+ See Full Web Article 
+
+      Go to the full CNN experience
+    
+ 
+    © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.
+   
+
+      Terms of Use
+    
+
+      |
+    
+
+      Privacy Policy
+    
+
+      |
+    
+
+      Ad Choices
+    
+
+      |
+    
+
+      Cookie Settings
+    

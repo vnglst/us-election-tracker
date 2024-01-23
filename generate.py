@@ -52,7 +52,7 @@ if not os.path.exists(input_folder):
 
 print(f"Downloading articles to {input_folder}...")
 
-download_articles('https://lite.cnn.com/', input_folder)
+# download_articles('https://lite.cnn.com/', input_folder)
 
 print("Done.")
 

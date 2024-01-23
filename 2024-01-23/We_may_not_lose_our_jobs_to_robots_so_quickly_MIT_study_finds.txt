@@ -1,0 +1,71 @@
+Source: https://lite.cnn.com/2024/01/22/tech/ai-labor-market-mit-study/index.html
+
+We may not lose our jobs to robots so quickly, MIT study finds
+
+
+  By Catherine Thorbecke, CNN
+ 
+Updated: 
+        11:37 AM EST, Mon January 22, 2024
+     
+  Source: CNN
+ 
+  As anxiety about artificial intelligence tools putting workers out of jobs reaches a global fever pitch, new research suggests that the economy isn’t ready for machines to put most humans out of work.
+ 
+  The fresh research finds that the impact of AI on the labor market will likely have a much slower adoption than some had previously feared as the AI revolution continues to dominate headlines. This carries hopeful implications for policymakers currently looking at ways to offset the worst of the labor market impacts linked to the recent rise of AI.
+ 
+  In a study published Monday, researchers at MIT’s Computer Science and Artificial Intelligence Lab sought to quantify the question of not just will AI automate human jobs, but when this could happen. Researchers ended up finding that a vast majority of jobs previously identified as vulnerable to AI are not economically beneficial for employers to automate at this time.
+ 
+  One key finding, for example, is that only about 23% of the wages paid to humans right now for jobs that could potentially be done by AI tools would be cost-effective for employers to replace with machines right now.
+ 
+  While this could change over time, the overall findings suggest that job disruption from AI will likely unfurl at a gradual pace.
+ 
+  “In many cases, humans are the more cost-effective way, and a more economically attractive way, to do work right now,” Neil Thompson, one of the study’s authors and the director of the future tech research project at MIT’s Computer Science and AI Lab, told CNN in an interview.
+ 
+  “What we’re seeing is that while there is a lot of potential for AI to replace tasks, it’s not going to happen immediately,” Thompson added, saying that amid all the headlines about robots taking jobs, “It’s really important to think about the economics of actually implementing these systems.”
+ 
+  In the study, Thompson and his team analyzed the majority of jobs that have been previously identified as “exposed” to AI, or at risk of being lost to AI, especially in the realm of computer vision. The researchers then looked at the wages paid to workers currently doing these jobs, and calculated how much it might cost to bring on an automated tool instead.
+ 
+  A retail worker, for example, might currently be responsible for visually checking inventory or ensuring that the prices listed throughout a store on specific merchandise is accurate. A machine trained in computer vision could technically do this job, Thompson notes, but at this stage it would still make the most economic sense for an employer to pay a human worker to do it.
+ 
+  “There’s a reason that AI has not been everywhere immediately,” Thompson said. “There’s an economics behind that.”
+ 
+  “And I think this actually should be very reminiscent of things that we’ve seen with other technologies,” he added.
+ 
+  Like previous high-profile technological disruptions to the labor market, such as the rise of manufacturing economies replacing agricultural economies, the AI disruption to jobs will likely be more gradual than it is abrupt. This could mean that policymakers, employers and even workers can start best preparing and adapting for these coming changes now.
+ 
+  Just last week, the International Monetary Fund warned that almost 40% of jobs globally could be affected by the rise of AI and that this trend will likely deepen existing inequality.
+ 
+  In a blog post last week warning of their latest projections, IMF chief Kristalina Georgieva called for governments to work on establishing social safety nets or retraining programs to counter the impacts of AI’s disruption.
+ 
+  The new research from Thompson and his team at MIT can give these policymakers a better understanding of the timeline they should be thinking about as they look for solutions to ameliorate the worst of AI’s impacts to the labor market.
+ 
+  “[The study] gives us this ability to start being a little more quantitative of how rapidly we expect worker displacement to happen,” Thompson said. “And that will allow people to start building plans that are much more concrete in terms of the retraining that needs to be done.”
+ See Full Web Article 
+
+      Go to the full CNN experience
+    
+ 
+    © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.
+   
+
+      Terms of Use
+    
+
+      |
+    
+
+      Privacy Policy
+    
+
+      |
+    
+
+      Ad Choices
+    
+
+      |
+    
+
+      Cookie Settings
+    

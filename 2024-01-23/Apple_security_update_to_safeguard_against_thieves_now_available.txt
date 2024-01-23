@@ -1,0 +1,57 @@
+Source: https://lite.cnn.com/2024/01/22/tech/apple-stolen-device-protection-update/index.html
+
+Apple security update to safeguard against thieves now available
+
+
+  By Ramishah Maruf and Jennifer Korn, CNN
+ 
+Updated: 
+        4:54 PM EST, Mon January 22, 2024
+     
+  Source: CNN
+ 
+  Apple’s major iPhone security update is now available to download, designed to keep thieves from accessing users’ vast personal data stored on the devices, the company announced Monday.
+ 
+  The “Stolen Device Protection” update adds an extra layer of protection by creating additional steps to access information. It is available with Monday’s iOS 17.3 update.
+ 
+  You can turn it on by updating your iPhone and scrolling down to Face ID & Passcode in your settings. You will be prompted to type in your passcode, and then you can scroll down to Stolen Device Protection and turn it on.
+ 
+  To use Stolen Device Protection, you must have two-factor authentication and “Find My” enabled for your Apple ID account.
+ 
+  Before the update, iPhone users could view highly sensitive information (from credit card information to every stored password) and make major changes to their phone’s settings with just a passcode – typically a four or six-digit number.
+ 
+  With Stolen Device Protection, users will be asked to enter biometric data via Face ID (face scan) or Touch ID (fingerprint) to access data or make changes.
+ 
+  For more sensitive actions – changing an Apple ID password, adding or removing face or fingerprint scanning, turning off Find My or turning off the stolen device protection itself – users will be asked for biometric data and then wait through an hour-long security delay before re-entering biometric data to make the changes.
+ 
+  “As threats to user devices continue to evolve, we work tirelessly to develop powerful new protections for our users and their data,” an Apple spokesperson said in a statement to CNN. “In the rare cases where a thief can observe the user entering the passcode and then steal the device, Stolen Device Protection adds a sophisticated new layer of protection.”
+ 
+  The extra security measures are only enacted when a user is away from a familiar location like work or home. These locations are automatically learned and stored by the device.
+ See Full Web Article 
+
+      Go to the full CNN experience
+    
+ 
+    © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.
+   
+
+      Terms of Use
+    
+
+      |
+    
+
+      Privacy Policy
+    
+
+      |
+    
+
+      Ad Choices
+    
+
+      |
+    
+
+      Cookie Settings
+    
