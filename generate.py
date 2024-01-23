@@ -52,13 +52,13 @@ if not os.path.exists(input_folder):
 
 print(f"Downloading articles to {input_folder}...")
 
-# download_articles('https://lite.cnn.com/', input_folder)
+download_articles('https://lite.cnn.com/', input_folder)
 
 print("Done.")
 
 
 def get_answer(question):
-    llm = Ollama(model="llama2:13b")
+    llm = Ollama(model="mistral")
 
     service_context = ServiceContext.from_defaults(
         llm=llm, embed_model="local")
