@@ -1,0 +1,71 @@
+Source: https://lite.cnn.com/2024/01/23/tech/medibank-attack-australia-sanction-revil-intl-hnk/index.html
+
+Australia sanctions Russian national accused of hacking in Medibank data leak
+
+
+  By Jessie Yeung and Hilary Whiteman, CNN
+ 
+Updated: 
+        2:58 AM EST, Wed January 24, 2024
+     
+  Source: CNN
+ 
+  Australia has publicly named and imposed cyber sanctions on a Russian national for his alleged role in a 2022 ransomware attack, in the country’s first use of the penalty.
+ 
+  The attack stole sensitive personal data from 9.7 million customers of Medibank, one of Australia’s largest private health insurers: including names, dates of births, medical information and Medicare numbers. Some of these records were published on the dark web, according to Australian authorities.
+ 
+  At the time, the Australian Federal Police said investigators knew the identity of the attackers but declined to name them. On Tuesday, the Australian government revealed the name of the individual sanctioned — Russian national Aleksandr Ermakov, 33, an alleged member of the Russian ransomware gang REvil.
+ 
+  The sanctions make it a criminal offense to provide assets to Ermakov, or to use or deal with his assets, including through cryptocurrency wallets or ransomware payments, according to a government news release.
+ 
+  The offense is punishable by up to 10 years’ imprisonment. The government has also imposed a travel ban on Ermakov.
+ 
+  Australian authorities have “worked tirelessly over the past 18 months to unmask those responsible for the cyberattack on Medibank Private,” Richard Marles, deputy prime minister and defense minister, said in the release.
+ 
+  The investigation included collaboration between federal intelligence agency Australian Signals Directorate, the Australian Federal Police, the FBI and National Security Agency (NSA) in the United States, and the United Kingdom’s cyber agency GCHQ — as well as with companies including Microsoft (MSFT) and Medibank, Marles said at a news conference Tuesday.
+ 
+  Cybersecurity experts said at the time of the data breach that it was likely linked to REvil, which had previously launched large attacks on targets in the United States and elsewhere. One such attack on international meat supplier JBS Foods in 2021 shut down the company’s entire US beef processing operation and prompted the company to pay an $11 million ransom.
+ 
+  At the request of the US, Russia’s Federal Security Service (FSB) intelligence agency detained multiple people associated with REvil in January 2022, seized millions of dollars and raided the homes of 14 people.
+ 
+  When the Medibank attack took place later that year, experts said it could have been perpetrated by a REvil member — which Australian authorities confirmed on Tuesday.
+ 
+  “REvil is only one of many Russian cyber-criminal syndicates, and those gangs we know are dynamic and have multiple partners. So a disruption of REvil at one point in time doesn’t cease its business,” Abigail Bradshaw, head of the Australian Cyber Security Center, said at the news conference.
+ 
+  However, she said, “cyber criminals trade in anonymity” — so publicly naming Ermakov “will most certainly do harm” to his activities, on top of the financial blow of the sanction.
+ 
+  Marles added that with this announcement, “his identity now being completely plain is on display for every agency around the world, but also anybody who is seeking to operate with him, so this will have a very significant impact on Aleksandr Ermakov.”
+ 
+  Investigations into other individuals linked to the attack are ongoing, Marles said.
+ 
+  The stolen data belonged to not only Australian customers but 1.8 million international customers. An initial ransom demand was made for $10 million (15 million Australian dollars). It was later lowered to $9.7 million, which Medibank refused to pay.
+ 
+  Australian authorities have repeatedly urged businesses and individuals not to pay ransoms to cyber criminals, arguing that paying does not guarantee the recovery of data or prevent further attacks — and makes the country a bigger target.
+ See Full Web Article 
+
+      Go to the full CNN experience
+    
+ 
+    © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.
+   
+
+      Terms of Use
+    
+
+      |
+    
+
+      Privacy Policy
+    
+
+      |
+    
+
+      Ad Choices
+    
+
+      |
+    
+
+      Cookie Settings
+    

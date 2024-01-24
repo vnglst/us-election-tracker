@@ -1,0 +1,57 @@
+Source: https://lite.cnn.com/2024/01/24/business/wall-street-firm-cyberattack/index.html
+
+Wall Street firm hit by cyberattack that has knocked systems offline
+
+
+  By Matt Egan, CNN
+ 
+Updated: 
+        12:35 PM EST, Wed January 24, 2024
+     
+  Source: CNN
+ 
+  EquiLend, a Wall Street firm that processes trillions of dollars of securities transactions a month, was hit by a cyberattack that has knocked some of its systems offline, the company said Wednesday.
+ 
+  The financial technology firm said in a statement to CNN that it could take “several days” before services are fully restored.
+ 
+  In the statement, EquiLend spokesperson Christopher Gohlke said that on Monday the company “identified a technical issue that placed portions of our systems offline.”
+ 
+  “We immediately launched an investigation and have identified a cyber security incident involving unauthorized access to our systems,” Gohlke said. “We took immediate steps to secure our systems and are working methodically to restore the involved services as quickly as possible.”
+ 
+  EquiLend said it is working with outside cybersecurity firms and “other” advisers to investigate the attack and bring services back online.
+ 
+  It’s not clear what impact the cyber incident has had on financial markets, if any.
+ 
+  Neither the Treasury Department nor the Securities and Exchange Commission were immediately available for comment.
+ 
+  EquiLend, which is reportedly owned by Goldman Sachs, BlackRock and other major Wall Street firms, is a significant player in the securities-lending industry. Hedge funds and other investors rely on securities lending firms to make short bets against the value of securities.
+ 
+This is a developing story and will be updated.
+ See Full Web Article 
+
+      Go to the full CNN experience
+    
+ 
+    © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.
+   
+
+      Terms of Use
+    
+
+      |
+    
+
+      Privacy Policy
+    
+
+      |
+    
+
+      Ad Choices
+    
+
+      |
+    
+
+      Cookie Settings
+    
