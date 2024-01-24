@@ -1,16 +1,24 @@
 import fs from "fs";
 
+function highlightAllTrump(text) {
+  return text.replace(/Trump/g, "<span class='bg-red-300'>Trump</span>");
+}
+
+function highlightAllBiden(text) {
+  return text.replace(/Biden/g, "<span class='bg-blue-300'>Biden</span>");
+}
+
 export default async function Home() {
   // load contents from files
   const files = fs.readdirSync("./public/answers");
-  const answers = files.map((file) => {
+  const answers = files.reverse().map((file) => {
     const content = fs.readFileSync(`./public/answers/${file}`, "utf8");
     const date = new Date(file.split(".")[0]).toLocaleDateString("en-UK", {
       day: "numeric",
       month: "short",
       year: "numeric",
     });
-    return { date, content };
+    return { date, content: highlightAllTrump(highlightAllBiden(content)) };
   });
 
   return (
@@ -28,7 +36,10 @@ export default async function Home() {
           return (
             <div key={index} className="bg-gray-100 p-4">
               <p className="text-sm font-bold text-gray-500">{date}</p>
-              <p className="text-sm">{content}</p>
+              <p
+                className="text-sm"
+                dangerouslySetInnerHTML={{ __html: content }}
+              />
             </div>
           );
         })}
