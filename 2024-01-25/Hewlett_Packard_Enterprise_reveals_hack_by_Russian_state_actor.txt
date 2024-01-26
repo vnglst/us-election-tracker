@@ -1,0 +1,72 @@
+Source: https://lite.cnn.com/2024/01/24/tech/hewlett-packard-enterprise-hack-russia-cozy-bear/index.html
+
+Hewlett Packard Enterprise reveals hack by Russian state actor
+
+
+  By Sean Lyngaas and Clare Duffy, CNN
+ 
+Updated: 
+        9:43 PM EST, Wed January 24, 2024
+     
+  Source: CNN
+ 
+     Tech firm Hewlett Packard Enterprise says its cloud-based email systems were breached by the same Russian hacking group that compromised some Microsoft email accounts earlier this month.
+ 
+  Hewlett Packard Enterprise, also known as HPE, revealed the breach in a securities filing last week. The incident took place on December 12, 2023, and affected “a small percentage of HPE mailboxes belonging to individuals in our cybersecurity, go-to-market, business segments, and other functions,” the company said.
+ 
+  “The Company, with assistance from external cybersecurity experts, immediately activated our response process to investigate, contain, and remediate the incident, eradicating the activity,” HPE said in the filing.
+ 
+  HPE said it suspects a group sometimes referred to as “Midnight Blizzard” was responsible for last month’s attack.
+ 
+  The hacking group, which US officials and private experts say has links to Russia’s foreign intelligence service, has gained a reputation as one of the stealthiest and most advanced cyber espionage groups in the world. Private analysts have referred to the group as “Midnight Blizzard” or as part of a group known as “APT29,” among other names.
+ 
+  The hackers used bugged software made by US tech firm SolarWinds to break into multiple US government agencies in 2020 to read emails between senior agency officials, US officials have alleged. (The Kremlin denied responsibility.) The spying campaign lasted well over a year and forced a major shakeup in how the US government defends its networks from hackers.
+ 
+  In the years since, the Russian hacking group has continued to use software providers to try to infiltrate US and European government agencies as part of a long-running quest for intelligence to serve the Kremlin, experts who track the hackers have told CNN.
+ 
+  The alleged Russian computer operatives have been particularly adept at breaking into cloud computing networks, as they did with the recent breach of HPE. The FBI has observed the hackers targeting cloud computing environments as far back as 2018, in what the bureau said was a likely tactic meant to cover their tracks.
+ 
+  HPE said in its filing that an investigation found that the December hacking incident was linked to an earlier breach and theft of some of its SharePoint files by the same group in May. The company said that after being notified of that breach in June, it “immediately investigated … and took containment and remediation measures intended to eradicate the activity” and that the incident did not materially impact the company.
+ 
+  HPE added regarding the December breach that it has “not determined the incident is reasonably likely to materially impact the Company’s financial condition or results of operations.”
+ 
+  Microsoft last week disclosed that the same group had accessed a small number of its corporate email accounts, including those belonging to some senior leaders, weeks earlier. Microsoft similarly said it had “immediately activated our response process to investigate, disrupt malicious activity, mitigate the attack, and deny the threat actor further access.”
+ 
+  But the Russian hackers used a relatively rudimentary technique — known as password spraying — on their way to breaching the email accounts of Microsoft executives, the tech giant said. The revelation has added to the already stiff scrutiny facing Microsoft’s security practices from US lawmakers and federal officials.
+ 
+  A senior US National Security Agency official told reporters Wednesday it was “disappointing” that the Russian hackers were able to breach Microsoft using password spraying “in this day and age.”
+ 
+  Big tech firms like Microsoft are going to be the repeated targets of state-backed hackers and have to prepare accordingly, the NSA official said in response to questions during the on-background media briefing.
+ 
+  Microsoft declined to comment Wednesday.
+ 
+  The tech firm was also at the center of an alleged Chinese hack last year that saw hackers break into the email accounts of senior US officials, including Commerce Secretary Gina Raimondo and US Ambassador to China NIcholas Burns. The hacking campaign began after the attackers breached a Microsoft engineer’s corporate account, according to Microsoft.
+ 
+ See Full Web Article 
+
+      Go to the full CNN experience
+    
+ 
+    © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.
+   
+
+      Terms of Use
+    
+
+      |
+    
+
+      Privacy Policy
+    
+
+      |
+    
+
+      Ad Choices
+    
+
+      |
+    
+
+      Cookie Settings
+    

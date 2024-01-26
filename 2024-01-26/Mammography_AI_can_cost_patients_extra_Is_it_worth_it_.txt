@@ -1,0 +1,99 @@
+Source: https://lite.cnn.com/2024/01/26/health/ai-mammograms-kff-health-news/index.html
+
+Mammography AI can cost patients extra. Is it worth it?
+
+
+  By Michelle Andrews, KFF Health News
+ 
+Updated: 
+        6:00 AM EST, Fri January 26, 2024
+     
+  Source: KFF Health News
+ 
+  As I checked in at a Manhattan radiology clinic for my annual mammogram in November, the front desk staffer reviewing my paperwork asked an unexpected question: Would I like to spend $40 for an artificial intelligence analysis of my mammogram? It’s not covered by insurance, she added.
+ 
+  I had no idea how to evaluate that offer. Feeling upsold, I said no. But it got me thinking: Is this something I should add to my regular screening routine? Is my regular mammogram not accurate enough? If this AI analysis is so great, why doesn’t insurance cover it?
+ 
+  I’m not the only person posing such questions. The mother of a colleague had a similar experience when she went for a mammogram recently at a suburban Baltimore clinic. She was given a pink pamphlet that said: “You Deserve More. More Accuracy. More Confidence. More power with artificial intelligence behind your mammogram.” The price tag was the same: $40. She also declined.
+ 
+  In recent years, AI software that helps radiologists detect problems or diagnose cancer using mammography has been moving into clinical use. The software can store and evaluate large datasets of images and identify patterns and abnormalities that human radiologists might miss. It typically highlights potential problem areas in an image and assesses any likely malignancies. This extra review has enormous potential to improve the detection of suspicious breast masses and lead to earlier diagnoses of breast cancer.
+ 
+  While studies showing better detection rates are extremely encouraging, some radiologists say, more research and evaluation are needed before drawing conclusions about the value of the routine use of these tools in regular clinical practice.
+ 
+  “I see the promise and I hope it will help us,” said Etta Pisano, a radiologist who is chief research officer at the American College of Radiology, a professional group for radiologists. However, “it really is ambiguous at this point whether it will benefit an individual woman,” she said. “We do need more information.”
+ 
+  The radiology clinics that my colleague’s mother and I visited are both part of RadNet, a company with a network of more than 350 imaging centers around the country. RadNet introduced its AI product for mammography in New York and New Jersey last February and has since rolled it out in several other states, according to Gregory Sorensen, the company’s chief science officer.
+ 
+  Sorensen pointed to research the company conducted with 18 radiologists, some of whom were specialists in breast mammography and some of whom were generalists who spent less than 75% of their time reading mammograms. The doctors were asked to find the cancers in 240 images, with and without AI. Every doctor’s performance improved using AI, Sorensen said.
+ 
+  Among all radiologists, “not every doctor is equally good,” Sorensen said. With RadNet’s AI tool, “it’s as if all patients get the benefit of our very top performer.”
+ 
+  But is the tech analysis worth the extra cost to patients? There’s no easy answer.
+ 
+  “Some people are always going to be more anxious about their mammograms, and using AI may give them more reassurance,” said Laura Heacock, a breast imaging specialist at NYU Langone Health’s Perlmutter Cancer Center in New York. The health system has developed AI models and is testing the technology with mammograms but doesn’t yet offer it to patients, she said.
+ 
+  Still, Heacock said, women shouldn’t worry that they need to get an additional AI analysis if it’s offered.
+ 
+  “At the end of the day, you still have an expert breast imager interpreting your mammogram, and that is the standard of care,” she said.
+ 
+  About 1 in 8 women will be diagnosed with breast cancer during their lifetime, and regular screening mammograms are recommended to help identify cancerous tumors early. But mammograms are hardly foolproof: They miss about 20% of breast cancers, according to the National Cancer Institute.
+ 
+  The FDA has authorized roughly two dozen AI products to help detect and diagnose cancer from mammograms. However, there are currently no billing codes radiologists can use to charge health plans for the use of AI to interpret mammograms. Typically, the federal Centers for Medicare & Medicaid Services would introduce new billing codes and private health plans would follow their lead for payment. But that hasn’t happened in this field yet and it’s unclear when or if it will.
+ 
+  CMS didn’t respond to requests for comment.
+ 
+  Thirty-five percent of women who visit a RadNet facility for mammograms pay for the additional AI review, Sorensen said.
+ 
+  Radiology practices don’t handle payment for AI mammography all in the same way.
+ 
+  The practices affiliated with Boston-based Massachusetts General Hospital don’t charge patients for the AI analysis, said Constance Lehman, a professor of radiology at Harvard Medical School who is co-director of the Breast Imaging Research Center at Mass General.
+ 
+  Asking patients to pay “isn’t a model that will support equity,” Lehman said, since only patients who can afford the extra charge will get the enhanced analysis. She said she believes many radiologists would never agree to post a sign listing a charge for AI analysis because it would be off-putting to low-income patients.
+ 
+  Sorensen said RadNet’s goal is to stop charging patients once health plans realize the value of the screening and start paying for it.
+ 
+  Some large trials are underway in the United States, though much of the published research on AI and mammography to date has been done in Europe. There, the standard practice is for two radiologists to read a mammogram, whereas in the States only one radiologist typically evaluates a screening test.
+ 
+  Interim results from the highly regarded MASAI randomized controlled trial of 80,000 women in Sweden found that cancer detection rates were 20% higher in women whose mammograms were read by a radiologist using AI compared with women whose mammograms were read by two radiologists without any AI intervention, which is the standard of care there.
+ 
+  “The MASAI trial was great, but will that generalize to the U.S.? We can’t say,” Lehman said.
+ 
+  In addition, there is a need for “more diverse training and testing sets for AI algorithm development and refinement” across different races and ethnicities, said Christoph Lee, director of the Northwest Screening and Cancer Outcomes Research Enterprise at the University of Washington School of Medicine.
+ 
+  The long shadow of an earlier and largely unsuccessful type of computer-assisted mammography hangs over the adoption of newer AI tools. In the late 1980s and early 1990s, “computer-assisted detection” software promised to improve breast cancer detection. Then the studies started coming in, and the results were often far from encouraging. Using CAD at best provided no benefit, and at worst reduced the accuracy of radiologists’ interpretations, resulting in higher rates of recalls and biopsies.
+ 
+  “CAD was not that sophisticated,” said Robert Smith, senior vice president of early cancer detection science at the American Cancer Society. Artificial intelligence tools today are a whole different ballgame, he said. “You can train the algorithm to pick up things, or it learns on its own.”
+ 
+  Smith said he found it “troubling” that radiologists would charge for the AI analysis.
+ 
+  “There are too many women who can’t afford any out-of-pocket cost” for a mammogram, Smith said. “If we’re not going to increase the number of radiologists we use for mammograms, then these new AI tools are going to be very useful, and I don’t think we can defend charging women extra for them.”
+ 
+KFF Health News, formerly known as Kaiser Health News (KHN), is a national newsroom that produces in-depth journalism about health issues and is one of the core operating programs at KFF — the independent source for health policy research, polling, and journalism
+ See Full Web Article 
+
+      Go to the full CNN experience
+    
+ 
+    © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.
+   
+
+      Terms of Use
+    
+
+      |
+    
+
+      Privacy Policy
+    
+
+      |
+    
+
+      Ad Choices
+    
+
+      |
+    
+
+      Cookie Settings
+    

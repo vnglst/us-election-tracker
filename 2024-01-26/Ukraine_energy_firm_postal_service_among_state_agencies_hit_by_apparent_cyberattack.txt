@@ -1,0 +1,63 @@
+Source: https://lite.cnn.com/2024/01/25/europe/ukraine-energy-firm-postal-service-cyberattack-intl/index.html
+
+Ukraine energy firm, postal service among state agencies hit by apparent cyberattack
+
+
+  By Sean Lyngaas, CNN
+ 
+Updated: 
+        3:30 PM EST, Thu January 25, 2024
+     
+  Source: CNN
+ 
+  Multiple Ukrainian state agencies, including the state-owned energy company, reported cyberattacks or technical disruptions on Thursday that were affecting their IT systems and ability to communicate with the public.
+ 
+  Naftogaz, Ukraine’s largest oil and gas company, said that a “large-scale cyberattack” on one of its data centers had knocked its website and call centers offline. The hack hit IT systems rather than more sensitive industrial computers involved in the production and delivery of energy. There were no reports that the delivery of energy was disrupted.
+ 
+  Meanwhile, Ukraine’s national post service and the state agency that oversees transportation safety reported technical failures to their IT systems and their websites were offline Thursday evening local time.
+ 
+  Current and former Ukrainian cyber officials told CNN they were investigating the string of disruptions, which they said appeared to be the result of a cyberattack on a prominent data center in Ukraine that the agencies rely on.
+ 
+  Citing the hacking incidents, Ukraine’s National Security and Defense Council on Thursday warned of an elevated cyber threat to organizations in the communications sector.
+ 
+  Spokespeople for Ukraine’s SBU security service and Ukraine’s civilian cyber defense agency did not immediately respond to CNN’s requests for comment.
+ 
+  It was not immediately clear who was responsible for the hacking incident. A user on a popular cybercrime forum on Thursday posted a for-sale ad for a trove of data purportedly stolen from the Ukrainian data center. CNN could not verify the authenticity of the data.
+ 
+  The news follows a separate incident on Tuesday in which hackers caused the heating system at a power company in the Western city of Lviv to malfunction, leaving some residents without heat or hot water, according to statements from Lviv Mayor Andriy Sadovyi and the power company.
+ 
+  Ukrainian infrastructure has been under near-constant bombardment from Russian hackers since the start of the Kremlin’s full-scale invasion of Ukraine two years ago, according to US officials and private experts.
+ 
+  There have been some significant and impactful hacks. Russian hackers allegedly disabled satellite communications as the invasion began, while a major cyberattack on Ukraine’s largest mobile operator last month disrupted an air raid warning service.
+ 
+  But US officials have credited Kyiv for being more resilient to Russian digital aggression than in years past.
+ 
+  Hackers backed by Russia’s GRU military intelligence service cut power in Ukraine for thousands of people in 2015 and 2016, according to US Justice Department indictments and private experts.
+ See Full Web Article 
+
+      Go to the full CNN experience
+    
+ 
+    © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.
+   
+
+      Terms of Use
+    
+
+      |
+    
+
+      Privacy Policy
+    
+
+      |
+    
+
+      Ad Choices
+    
+
+      |
+    
+
+      Cookie Settings
+    

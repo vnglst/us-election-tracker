@@ -1,0 +1,85 @@
+Source: https://lite.cnn.com/2024/01/25/tech/apple-europe-third-party-app-stores/index.html
+
+Apple announces sweeping changes for apps in Europe, including allowing third-party app stores for the first time
+
+
+  By Brian Fung, CNN
+ 
+Updated: 
+        4:29 PM EST, Thu January 25, 2024
+     
+  Source: CNN
+ 
+  Apple announced sweeping new changes to its handling of apps in Europe on Thursday, including plans to allow third-party app stores on iPhones and iPads for the first time in company history and significant cuts to Apple’s app store fees.
+ 
+  The unprecedented updates, which are a response to new European regulations set to take effect in March, reflect some of the most consequential changes to Apple’s app business since the debut of its proprietary app store 15 years ago, which forms the bedrock of its walled garden ecosystem.
+ 
+  For consumers, the shift may mean more choices in how they acquire and install apps. And for developers, other changes to Apple’s terms may give them more flexibility in how they market themselves to users.
+ 
+  The moves underscore how European Union policymakers have successfully forced Apple to change its business practices in the face of vocal complaints from developers who have accused the iPhone maker of anticompetitive or monopolistic behavior.
+ 
+  Under the changes, Apple said it will allow users to download third-party app stores onto their devices from websites outside of Apple’s own ecosystem. The app stores, Apple said, will exist as standalone apps on an iOS device with the authority to install other apps offered by those third-party marketplaces.
+ 
+  Apple also said it would offer to slash the fees it collects from in-app transactions involving digital goods and services, reducing them from 30% to 17% and, for developers that are eligible for certain discount programs through Apple, from 15% to 10%.
+ 
+  Today, about 3% of developers in the EU pay Apple’s standard 30% commission, while 9% pay the discounted rate, Apple said. The other 88% of developers pay nothing, according to the company.
+ 
+  App developers will gain the ability to offer alternative payment methods that do not rely on Apple’s own systems, the company said, and Apple will not charge a commission for doing so. Apple will also not collect any fees from apps that are distributed through third-party app stores, it added.
+ 
+  In exchange, developers who opt to take advantage of the new capabilities and fee structure will be charged a new fee of 0.50 euros for every installation of an app after the first 1 million installs in a year. Less than 1% of EU developers will likely be charged the installation-based fee, Apple said. Developers who wish to continue using Apple’s proprietary systems can choose to remain under the company’s existing terms and fee structure, the company said.
+ 
+  European Union residents will gain access to the expanded features as part of Apple’s next update to its iOS operating system, version 17.4, in March, the company said, and app makers will be able to test out the changes as early as Thursday.
+ 
+  Apple’s shift to comply with the new EU law, known as the Digital Markets Act (DMA), highlights stark differences between how the company plans to operate in Europe compared to other parts of the world. Last week, to comply with a court order in the United States, Apple announced support for alternative payment methods. But unlike in Europe, Apple said it would continue to charge a commission of up to 27%, enraging some developers who accused the company of “specious” compliance with the court order.
+ 
+  On Thursday, Apple critics including the Coalition for App Fairness, a group that includes “Fortnite”-maker Epic Games, Spotify, Tile and others, blasted Apple’s announcement as a half-measure intended to give the appearance of compliance.
+ 
+  “This plan does not achieve the DMA’s goal to increase competition and fairness in the digital market — it is not fair, reasonable, nor non-discriminatory,” said Rick VanMeter, the group’s executive director. “Apple’s proposal forces developers to choose …. either stick with the terrible status quo or opt into a new convoluted set of terms that are bad for developers and consumers alike.”
+ 
+  However, Epic Games — which spent years engaged in an antitrust battle with Apple in the United States and in 2020 had “Fortnite” booted from Apple’s App Store — said Thursday that the popular online game app will return to iOS in Europe this year. The game will be distributed by a new Epic Games app store for iOS, according to an X post by the company.
+ 
+  Still, Epic Games said: “We’ll continue to argue to the courts and regulators that Apple is breaking the law.”
+ 
+  Apple representatives declined to say on Thursday whether the changes they are making in response to EU regulation may be introduced elsewhere around the world.
+ 
+  They also argued that in order to comply with the EU law, Apple’s updates are a fundamental change to its app ecosystem and in some cases may expose users to greater security risks. The company added that it will still perform basic automated and human security reviews of all apps and that third-party app store owners will need to meet certain security criteria.
+ 
+  But, the company said, apps distributed through third-party app stores will not be checked against the content or quality standards Apple uses for its own app store reviews.
+ 
+  Other changes Apple is adopting in Europe could unlock further options for consumers in mobile payments. Apple said iOS 17.4 will allow developers access to the tap-to-pay chip embedded within iPhones, enabling the creation of alternative mobile wallet apps on iOS that can be used for contactless payments at cashiers and store kiosks.
+ 
+  Meanwhile, updates to how Apple handles browsers will present EU users with a new choice screen the first time they open Safari after downloading iOS 17.4, Apple said. The choice screen will offer a menu of alternative browsers, such as Chrome or Firefox, and provide users the ability to select a different default browser than Safari. That change aims to address longstanding critiques about tech giants’ potential to use default settings to steer users toward their own software.
+ 
+  In addition to being able to set new defaults for browsers, Apple said, users in the EU will be able to set a third-party app marketplace as a device’s default app store, though it will initially be set to Apple’s app store.
+ 
+This story has been updated with additional developments.
+ 
+–CNN’s Clare Duffy contributed to this report. 
+ See Full Web Article 
+
+      Go to the full CNN experience
+    
+ 
+    © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.
+   
+
+      Terms of Use
+    
+
+      |
+    
+
+      Privacy Policy
+    
+
+      |
+    
+
+      Ad Choices
+    
+
+      |
+    
+
+      Cookie Settings
+    

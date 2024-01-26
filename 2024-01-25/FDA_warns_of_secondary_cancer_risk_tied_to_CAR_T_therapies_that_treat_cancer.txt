@@ -1,0 +1,81 @@
+Source: https://lite.cnn.com/2024/01/24/health/fda-car-t-therapies-secondary-cancer-risk/index.html
+
+FDA warns of secondary cancer risk tied to CAR-T therapies that treat cancer
+
+
+  By Jacqueline Howard, CNN
+ 
+Updated: 
+        4:36 PM EST, Wed January 24, 2024
+     
+  Source: CNN
+ 
+  The US Food and Drug Administration has issued a new warning about the possible risk of secondary cancers in cancer patients who have been treated with a form of immunotherapy called chimeric antigen receptor T-cell, or CAR-T cell, therapy.
+ 
+  The FDA sent notification letters this week and last week to several manufacturers of these therapies, requiring them to add a “boxed warning” to the products’ prescribing information. The warnings say that some T-cell malignancies, which in some cases led to hospitalization and death, have happened after treatment with BCMA- and CD19- directed genetically modified autologous T-cell immunotherapies.
+ 
+  “We would like to underscore that the overall benefits of these products continue to outweigh their possible risks,” FDA spokesperson Carly Pflaum said in an email Wednesday.
+ 
+  As of Monday, the agency has received 25 reports of T-cell malignancy after treatment with CAR-T cell immunotherapies, according to the email.
+ 
+  T-cells, a type of white blood cell, are the backbone of CAR-T therapies. These work by harnessing a patient’s T-cells, altering them in a lab so that they will attack cancer cells and then giving those modified T-cells back to the patient through an infusion.
+ 
+  Currently approved CAR-T cell immunotherapies are Abecma, Breyanzi, Carvykti, Kymriah, Tecartus and Yescarta. Kymriah, the first CAR-T cancer therapy approved by the FDA for leukemia treatment, was approved in 2017. The initial approvals of these therapies included an FDA requirement for 15-year follow-up studies to assess long-term safety and risk of secondary cancers after treatment. 
+ 
+  Previously, the risk of secondary malignanices was included as a “class warning” in the US prescribing information for these CAR-T therapies.
+ 
+  “The FDA considers the serious risk of T cell malignancy to be applicable to all BCMA- and CD19-directed genetically modified autologous T cell immunotherapies,” the FDA said in a news release Tuesday. “The letters notify manufacturers of each such licensed product to update the package insert to include available information related to the risks and to update the Medication Guide for these products to identify the possibility of the increased risk of getting cancers, including certain types of cancers of the immune system.”
+ 
+  Patients and people participating in clinical trials who are receiving these therapies should be monitored “life-long” for any new malignancies, according to the FDA. If a new malignancy develops after treatment, health-care providers are urged to contact the manufacturer to report the event and get instructions on how to collect samples from the patient for testing.
+ 
+  “On an individual basis, a patient should not be too worried about this specific risk of developing treatment-induced T cell lymphoma after receiving CAR-T cell therapies, the risk appears to be extremely low,” Dr. Joshua Brody, director of the lymphoma immunotherapy program at the Tisch Cancer Institute at Mount Sinai, who was not involved in the FDA warning, wrote in an email Wednesday. “The real impact of this new safety label is that it will push CAR-T developers to even safer versions for future patients.”
+ 
+  In November, the FDA announced that it was investigating the risk of secondary cancers after treatment with certain CAR-T cell therapies.
+ 
+  As of the end of last year, the agency had received 22 reported cases of different types of T-cell malignancies possibly associated with CAR-T therapies, Dr. Peter Marks, director of the FDA’s Center for Biologics Evaluation and Research, said in a presentation at the Alliance for Regenerative Medicine this month.
+ 
+  He added that there were more than 27,000 people treated with these CAR-T therapies in the United States.
+ 
+  “So the rate of a few of these cases, with tens of thousands of individuals treated, it’s not overly concerning to us in this malignant setting right now,” he said.
+ 
+  “We’ve put out some initial guidance here about what we’re asking for: long-term monitoring; asking that providers, if they see a new T-cell malignancy, contact manufacturers, contact us so that we can get the data we need to understand the frequency of these events. But just make no mistake, the overall risk benefit profile here is still incredibly beneficial,” Marks said. “Over the coming months, as we learn more, we will adapt and update our information.”
+ 
+  This secondary cancer risk associated with CAR-T therapies will not necessarily change the way oncologist Dr. Eric Smith treats his patients, he said.
+ 
+  “The benefits of CAR T cell therapies continue to substantially outweigh the risks for our patients,” Smith, director of translational research for immune effector cell therapies, like CAR-T cell therapies, at Dana-Farber Cancer Institute, said in an email Wednesday.
+ 
+  “These cases, and the potential for secondary cancers is and should be taken seriously, however, it will not have a major impact on treatment approaches for the FDA-approved therapies. Patients who require these therapies often have a high chance of dying from their current cancers and CAR T cell therapies have been transformative in terms of the response rates and durability of responses for patients with these relapsed or refractory blood cancers,” he said. “Given the low rate of these secondary malignancies, it is important that we can continue to administer CAR T cell therapies to our patients in need of them.”
+ 
+  Dr. Mikkael Sekeres, professor and chief of the Division of Hematology at the Sylvester Comprehensive Cancer Center in Miami, said he doesn’t think patients should be any more concerned about the risks associated with CAR-T therapy than they would be for other cancer therapies.
+ 
+  “When we offer treatments for cancer, unfortunately there are no free rides – every effective cancer therapy has the potential to cause side effects. CAR-T cell therapies are often offered to people who have lymphomas, leukemia, or multiple myeloma that has returned after standard therapy, and they work really, really well,” he said in an email Wednesday.
+ 
+  “I will still recommend CAR-T cell therapies for my patients as I always have, and will incorporate a discussion of the risk of another cancer, just as I do with other cancer treatments,” Sekeres said. “I applaud the FDA for including the additional risk in the safety labeling for CAR-T Cell therapy so all of us – physician and patient alike – go into a treatment approach with eyes wide open.”
+ See Full Web Article 
+
+      Go to the full CNN experience
+    
+ 
+    © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.
+   
+
+      Terms of Use
+    
+
+      |
+    
+
+      Privacy Policy
+    
+
+      |
+    
+
+      Ad Choices
+    
+
+      |
+    
+
+      Cookie Settings
+    

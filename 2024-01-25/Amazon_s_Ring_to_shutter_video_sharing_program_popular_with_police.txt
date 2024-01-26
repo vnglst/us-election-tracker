@@ -1,0 +1,81 @@
+Source: https://lite.cnn.com/2024/01/24/tech/amazons-ring-video-sharing-with-police/index.html
+
+Amazon’s Ring to shutter video-sharing program popular with police
+
+
+  By Brian Fung, CNN
+ 
+Updated: 
+        4:08 PM EST, Wed January 24, 2024
+     
+  Source: CNN
+ 
+  Amazon’s Ring will no longer let police and other government agencies request doorbell camera footage from within the company’s Neighbors app, in what privacy advocates are hailing as a long-awaited victory for civil liberties.
+ 
+  Authorities seeking Ring surveillance videos must now submit a formal legal request to the company, rather than soliciting footage directly from users through the app, Ring said in a blog post Wednesday.
+ 
+  “Public safety agencies like fire and police departments can still use the Neighbors app to share helpful safety tips, updates, and community events,” the blog post said.
+ 
+  On January 31, law enforcement will no longer be able to make new posts asking users to submit footage, though Ring users may continue to respond to existing police requests on the app until February 29, a Ring spokesperson told CNN.
+ 
+  Ring’s decision to wind down the video-sharing program, known as Request for Assistance, has nationwide implications. Hundreds of law enforcement agencies have struck up partnerships with Ring, according to a tracker maintained by the consumer advocacy group Fight for the Future. The partnerships highlight authorities’ appetite for data from an increasingly ubiquitous gadget that can help shed light on local crimes but that critics say is invasive and creepy and threatens citizen rights.
+ 
+  “Ring shutting down the ‘red carpet’ surveillance portal they offered to police is unquestionably a victory for the coalition of racial justice and human rights advocates that have been calling to end these partnerships for years,” said Evan Greer, director of Fight for the Future. “That said, this move only scratches the surface of addressing the harm done by Ring’s dystopian business model.”
+ 
+  Matthew Guariglia, a senior policy analyst at the Electronic Frontier Foundation, a digital rights group, said Ring’s decision will end the ability for police to make warrantless requests for information through the Neighbors app and is a step in the right direction.
+ 
+  But, he warned, it would not necessarily stop police from continuing to persuade Ring users to voluntarily give up their rights. Police are able to contact Ring users off the app. And Ring users can still decide if they want to voluntarily send video, sounds or images from their Ring devices to law enforcement.
+ 
+  “Ring users should also know that when police knock on their door, they have the right to, and should, request that police get a warrant before handing over footage,” if they don’t want to turn over footage, Guariglia said.
+ 
+  A spokesperson for the Fraternal Order of Police, a group that represents law enforcement officers, didn’t immediately respond to a request for comment on Ring’s announcement.
+ 
+  Ring has faced years of scrutiny over its video sharing practices. In 2021, after pressure from groups including EFF, Ring said it would no longer let government agencies contact users privately to request their surveillance footage, requiring them instead to solicit video submissions through public posts on the Neighbors app.
+ 
+  Critics allege that Ring’s doorbell cameras have contributed to racial profiling and invasions of privacy. Massachusetts Democratic Sen. Ed Markey, who has questioned Ring about its practices, has said authorities’ use of Ring footage “creates a crisis of accountability.”
+ 
+  In response to Markey’s questions, Ring has said it reserves the right to hand over camera footage to law enforcement in an emergency and without a warrant and disclosed in 2022 that it had done so at least 11 times in the first half of that year alone.
+ 
+  Guariglia said that despite Wednesday’s announcement, he is “still deeply skeptical about law enforcement’s and Ring’s ability to determine what is, or is not, an emergency” allowing authorities to bypass legal process.
+ 
+  Ring has also faced blowback over “Ring Nation,” a TV show highlighting humorous video clips captured by Ring devices that the company said were intended to spark delight but that critics said normalized and made light of Amazon’s growing surveillance power.
+ 
+  And Ring has received wider criticism over its handling of user data and its ability to protect users’ privacy. Last year, Ring agreed to pay $5.8 million to settle allegations by the Federal Trade Commission that it gave employees unrestricted access to videos from customers’ Ring devices and ignored reports that some Ring employees were secretly viewing user footage. The FTC also alleged that numerous instances of hacked Ring cameras undercut the company’s marketing claims that the cameras would enhance user security.
+ 
+  Wednesday’s announcement comes the same day that Senate lawmakers questioned law enforcement and academics about the rising use of artificial intelligence in policing. And it coincides with reports of wrongful arrests arising from the use of facial recognition analysis of surveillance camera footage.
+ 
+  “While AI has the potential to improve law enforcement efficacy, it can also cause harmful errors with high-stakes consequences for life and liberty,” Rebecca Wexler, a law professor at the University of California, Berkeley, testified to lawmakers at Wednesday’s hearing.
+ 
+  “Congress should require [AI] vendors to allow independent audits by clarifying that AI tools used in the criminal legal system must be subject to independent review.”
+ 
+  While Ring did not disclose its specific reasons for ending the video-sharing program, at a certain point the company must have calculated that its perceived closeness with authorities hurt more than it helped overall, said Jay Stanley, senior policy analyst at the American Civil Liberties Union.
+ 
+  “I would’ve loved to have been a fly on that wall,” Stanley said. “It seems significant that they decided to pull back from a hand-in-glove relationship with law enforcement, at least in their marketing.”
+ See Full Web Article 
+
+      Go to the full CNN experience
+    
+ 
+    © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.
+   
+
+      Terms of Use
+    
+
+      |
+    
+
+      Privacy Policy
+    
+
+      |
+    
+
+      Ad Choices
+    
+
+      |
+    
+
+      Cookie Settings
+    

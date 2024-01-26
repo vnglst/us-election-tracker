@@ -1,0 +1,65 @@
+Source: https://lite.cnn.com/2024/01/24/business/wall-street-firm-cyberattack/index.html
+
+Wall Street firm hit by cyberattack that has knocked systems offline
+
+
+  By Matt Egan, CNN
+ 
+Updated: 
+        3:20 PM EST, Wed January 24, 2024
+     
+  Source: CNN
+ 
+  EquiLend, a Wall Street firm that processes trillions of dollars of securities transactions a month, was hit by a cyberattack that has knocked some of its systems offline, the company said Wednesday.
+ 
+  The financial technology firm, owned by Goldman Sachs, JPMorgan and other major Wall Street firms, said in a statement to CNN that it could take “several days” before services are fully restored.
+ 
+  In the statement, EquiLend spokesperson Christopher Gohlke said that on Monday the company “identified a technical issue that placed portions of our systems offline.”
+ 
+  EquiLend said it is working with outside cybersecurity firms and other advisers to investigate the attack and bring services back online.
+ 
+  “We immediately launched an investigation and have identified a cyber security incident involving unauthorized access to our systems,” Gohlke said. “We took immediate steps to secure our systems and are working methodically to restore the involved services as quickly as possible.”
+ 
+  EquiLend, owned by a consortium of Wall Street firms including BlackRock and Bank of America, is a significant player in the securities-lending industry through its NGT trading platform. Hedge funds and other investors rely on securities lending firms to make short bets against the value of securities.
+ 
+  The impact on financial market players has been “limited,” a spokesperson for FS-ISAC, a global consortium of financial institutions who share cybersecurity intelligence, told CNN in a statement.
+ 
+  The FS-ISAC spokesperson said the hack impacted specific automated securities lending services, causing firms to adjust by moving to manual processes.
+ 
+  “The sector is monitoring for any ongoing issues,” the FS-ISAC spokesperson said, “and coordinating through our established incident response processes and resilience mechanisms to ensure firms have the information they need to mitigate potential impacts.”
+ 
+  US officials are keeping tabs on the hack.
+ 
+  “Treasury has been in close contact with key financial sector and regulatory leadership which are collectively monitoring the incident,” Treasury spokesperson Christopher Hayden told CNN.
+ 
+  Last week, EquiLend announced a deal to sell a majority stake in itself to private-equity firm Welsh, Carson, Anderson & Stowe for an undisclosed sum.
+ 
+This story has been updated with additional developments.
+ See Full Web Article 
+
+      Go to the full CNN experience
+    
+ 
+    © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.
+   
+
+      Terms of Use
+    
+
+      |
+    
+
+      Privacy Policy
+    
+
+      |
+    
+
+      Ad Choices
+    
+
+      |
+    
+
+      Cookie Settings
+    
