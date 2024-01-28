@@ -81,7 +81,3 @@ output_filename = './web/public/answers/' + input_folder + '.txt'
 
 with open(output_filename, 'w', encoding='utf-8') as f:
     f.write(answer)
-
-
-# create a new commit
-os.system('git ac -m "automated update" && git push')
