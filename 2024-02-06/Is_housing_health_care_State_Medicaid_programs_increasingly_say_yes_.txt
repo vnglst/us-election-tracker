@@ -1,0 +1,125 @@
+Source: https://lite.cnn.com/2024/02/05/health/housing-health-care-kff-health-news-partner/index.html
+
+Is housing health care? State Medicaid programs increasingly say ‘yes’
+
+
+  By Angela Hart, KFF Health News
+ 
+Updated: 
+        6:29 AM EST, Mon February 5, 2024
+     
+  Source: KFF Health News
+ 
+  States are plowing billions of dollars into a high-stakes health care experiment that’s exploding around the country: using scarce public health insurance money to provide housing for the poorest and sickest Americans.
+ 
+  California is going the biggest, pumping $12 billion into an ambitious Medicaid initiative largely to help homeless patients find housing, pay for it, and avoid eviction. Arizona is allocating $550 million in Medicaid funding primarily to cover six months of rent for homeless people. Oregon is spending more than $1 billion on services such as emergency rental assistance for patients facing homelessness. Even ruby-red Arkansas will dedicate nearly $100 million partly to house its neediest.
+ 
+  At least 19 states are directing money from Medicaid — the state-federal health insurance program for low-income people — into housing aid and addressing the nation’s growing homelessness epidemic, according to the Centers for Medicare & Medicaid Services. Even though there’s little agreement that this will provide a long-term fix for vulnerable patients’ health or housing, the Biden administration is encouraging other states to jump in. Several are in the pipeline, including Tennessee, West Virginia, and Montana — and New York got the green light from the federal government in January.
+ 
+  Using health care funding to house people is “a big philosophical debate,” said Alex Demyan, assistant director of Arizona’s Medicaid agency. “We know health care can’t solve all the problems, but we also know that housing agencies are maxed out and we have enormous need to help stabilize people.”
+ 
+  Homelessness jumped 12% in the U.S. last year, to an estimated 653,104 Americans, the highest level on record, even as the nation dramatically increased its inventory of permanent housing and temporary shelter beds.
+ 
+  As people languish on the streets, often struggling with addiction, severe mental illness, and untreated chronic diseases, health care officials and political leaders are turning to health insurance money for relief. They argue that housing aid will improve health and save taxpayer money by keeping people out of institutions such as nursing homes, hospitals, and jails.
+ 
+  But evidence supporting this argument is mixed.
+ 
+  For instance, in a trial by researchers at the University of California-San Francisco, homeless people in Santa Clara County, California, who were randomly assigned to receive long-term housing and services used the psychiatric emergency department 38% less than a control group over four years while increasing their use of routine mental health care. But participants were still hospitalized at high rates and continued to rely on the emergency room for routine medical care or rest.
+ 
+  State Medicaid programs have long dabbled in housing, but with the blessing and encouragement of the Biden administration, they are launching more services for more people with heaps of new state and federal money. The trend is part of a broader White House strategy that encourages Medicaid directors to offer social services alongside traditional medical care, with the goal of making their residents healthier.
+ 
+  “A health care dollar can do more than just pay for a doctor visit or hospital stay,” Xavier Becerra, secretary of the U.S. Department of Health and Human Services, told KFF Health News. “We should be using the federal health care dollar for wellness care: Get them before they get ill, and keep them healthy. Is there anyone who would deny that someone who is homeless is going to have a harder time also keeping their health up than someone who is housed with running water and heat?”
+ 
+  Becerra acknowledged these initiatives as experiments. But he said the federal government can no longer ignore the rampant death and disease that is plaguing homeless populations around the U.S.
+ 
+  “We’re simply saying, ‘State, if you can prove to us that with this Medicaid dollar you will improve someone’s health or health outcome, then you have essentially served the purpose of the Medicaid program and you’re saving taxpayers more money,’” he said.
+ 
+  But not all health care leaders — or even homelessness experts — believe this is the best use of Medicaid money, especially by a safety-net program that faces routine criticism for failing to provide basic health care to many enrollees.
+ 
+  “If you’re on Medicaid, you often have to wait months and months for a specialty visit, even if it’s a life-threatening concern, so I worry about what people won’t be able to get because of this,” said Margot Kushel, a leading homelessness researcher and primary care doctor at Zuckerberg San Francisco General Hospital and Trauma Center who primarily treats low-income patients.
+ 
+  “It’s not that I don’t want the money to be spent, but is it best spent in health care?” she asked. “It’s much better than nothing, but it’s far from providing the long-term housing and stability that people really need.”
+ 
+  Kushel said the danger is that most Medicaid housing assistance can be used only once or is time-limited, such as rental payments, which typically end after six months.
+ 
+  “By the time folks get into housing, they’re already really, really sick,” she said. “What happens at the end of six months when rental assistance like free rent runs out?”
+ 
+  Across the country, state Medicaid programs are stretching the definition of health care and getting into the business of social services, delivering a range of nontraditional benefits such as healthy home-delivered meals for patients with diabetes and air filters for patients with asthma.
+ 
+  While the federal government historically has banned the use of Medicaid money for direct rent payments, that has changed.
+ 
+  In 2022, Arizona received federal approval for an initiative called “H2O,” which will prioritize homeless people and those at risk of losing housing who also have a mental health condition and chronic illness. When it launches in October, it will primarily provide two services: rent payments for up to six months; and transitional housing, which can include shelters with intensive services.
+ 
+  Arizona saw a 5% jump in homelessness in 2023 from the previous year. Its program will supplement a separate state-funded Medicaid initiative that provides 3,000 rent vouchers for people in southern Arizona who have a severe mental illness and are homeless or at risk of becoming homeless. About 5,000 people are on the waiting list for a voucher.
+ 
+  “We’ve seen such positive health outcomes and cost reductions as a result, so it made total sense to us to expand our work in that space,” Demyan said. That program slashed ER visits 45% and reduced hospital inpatient admissions 53% at the six-month mark after patients started receiving services, while increasing less costly preventive care 56% and saving $4,300 per member, per month, according to state data.
+ 
+  California, home to nearly 30% of the nation’s homeless population, saw a nearly 6% jump in homelessness in 2023, to about 181,000 people.
+ 
+  The state launched its massive CalAIM initiative in 2022 to offer a wide variety of social services to a small sliver of the state’s roughly 15 million Medicaid enrollees. A large share of the resources are going to housing services for homeless people or those facing eviction, such as covering security deposits and enlisting case managers to hunt for available apartments. State leaders are also asking the Biden administration for permission to provide six months of rent.
+ 
+  “If you’re saddled with a great deal of either physical or behavioral health conditions, whether it’s diabetes or HIV, high blood pressure or schizophrenia, without housing, it’s really hard to stabilize those conditions,” said Mark Ghaly, secretary of the California Health and Human Services Agency.
+ 
+  But he cautioned that Medicaid’s core focus must remain getting people healthy, even if they’re living outside, which is a monumental and expensive challenge because conditions like diabetes, heart disease, and HIV require continuous treatment and often multiple medications.
+ 
+  “I do not think that health care is responsible for solving homelessness in California or anywhere else,” Ghaly said. “But if housing instability or lack of housing is one of the key drivers getting in the way of being healthy, then absolutely we need to pay attention to it.”
+ 
+  Health insurers that provide Medicaid coverage in California can choose whether to provide housing services, but Oregon is requiring Medicaid insurers to do so.
+ 
+  Homelessness grew 12% in Oregon from 2022 to 2023, but the state is targeting patients at risk of becoming homeless. Participants will be eligible for six months of rent and other services when the program launches in November, said Dave Baden, deputy director of the Oregon Health Authority.
+ 
+  “We’re really trying to focus on people teetering on the brink,” Baden said. “If you’re already homeless, you really need longer, sustainable housing dollars to keep that person housed.”
+ 
+  It’s not just states experimenting with this approach. Kaiser Permanente is one of the health systems that has invested its own funds into housing. In recent years, the health care giant has committed hundreds of millions of dollars to help maintain or build thousands of affordable housing units, in addition to providing housing-related Medicaid benefits for its members.
+ 
+  “We have to do something. The crisis is out of control,” said Bechara Choucair, its chief health officer.
+ 
+Sherry Glied, a professor at New York University and former Obama administration official who is an expert in health care economics, warned in a recent health policy analysis of mission creep in health care. She cautioned that health care institutions getting into the business of social services could be a “dangerous distraction.”
+ 
+  Glied pointed to at least 57 health systems and 917 hospitals around the country that have launched social service initiatives, with most focusing on housing. Because many institutions struggle to meet patient safety and quality care standards, Glied argued that they should instead improve basic care and leave housing to social service organizations “that specialize in this work.”
+ 
+  “Providing people with food or housing is pretty far removed from the core mission of health care,” she told KFF Health News.
+ 
+  Peter Lee, another former Obama administration official and the founding executive director of California’s Obamacare exchange, said health care providers should consider offering some housing and social services, but he fears such initiatives may divert money from traditional medicine and prevent patients from getting adequate care.
+ 
+  “In the past five to 10 years, there has been a lot of recognition that health is about much more than actual health care. Very true,” Lee said. “The question is how do you address those issues while health care itself is not doing too great. The brass tacks of this is making sure people with diabetes have great diabetes care, that people get checkups in time, that people can get the regular health care they need.”
+ 
+  State Medicaid programs, which provide care to at least 80 million Americans, often struggle to deliver basic medical services, such as childhood dental visits and breast cancer screenings. In California, the state spending the most on housing services, children on Medicaid did not have timely access to care for mental health or substance use in 2022, according to an audit published in November.
+ 
+  Despite these shortfalls, most of the states that have been given the federal go-ahead to experiment with housing services have secured funding for five years. California is among the states that hope to make the benefits permanent.
+ 
+  Though a Republican presidency could interrupt this trend, states say they’re committed — even if their initiatives don’t pass a traditional cost-benefit analysis.
+ 
+  “The singular focus on a financial return on investment is not as clear as it was previously,” said Cindy Mann, a federal Medicaid director under Obama.
+ 
+  “States are just seeing how little sense it makes to treat people and then release them back to the streets without the support they need.”
+ 
+This article was produced by KFF Health News, formerly known as Kaiser Health News (KHN), a national newsroom that produces in-depth journalism about health issues and is one of the core operating programs at KFF — the independent source for health policy research, polling, and journalism. KFF Health News is the publisher of California Healthline, an editorially independent service of the California Health Care Foundation.
+ See Full Web Article 
+
+      Go to the full CNN experience
+    
+ 
+    © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.
+   
+
+      Terms of Use
+    
+
+      |
+    
+
+      Privacy Policy
+    
+
+      |
+    
+
+      Ad Choices
+    
+
+      |
+    
+
+      Cookie Settings
+    

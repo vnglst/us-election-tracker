@@ -1,0 +1,95 @@
+Source: https://lite.cnn.com/2024/02/05/health/weight-loss-blood-pressure/index.html
+
+‘It’s a new era’: Weight-loss treatments significantly lower blood pressure, studies find
+
+
+  By Mira Cheng, CNN
+ 
+Updated: 
+        2:00 PM EST, Mon February 5, 2024
+     
+  Source: CNN
+ 
+  Two new studies showed a significant reduction in blood pressure in adults who underwent certain weight-loss treatments. One study showed a significant decrease in the blood pressure of people who received weekly injections of the drug tirzepatide; the other found that participants who underwent bariatric surgery had significantly improved blood pressure control after five years compared with those who only took blood pressure medications.
+ 
+  The two studies looked at different interventions and outcomes, but together they provide robust evidence to support the concept that the effective treatment of obesity may be the key to improving overall heart health, said Dr. Harlan Krumholz, a cardiologist at Yale University. Although the relationship between obesity and diseases like high blood pressure, diabetes and other heart conditions is well-established, effective treatments for obesity have been lacking until now, he said.
+ 
+  “It’s a new era,” Krumholz said. “This isn’t a new insight, but now we have the tools — these anti-obesity medications and surgery — that can have profound benefits.”
+ 
+  The first study, published Monday in the American Heart Association journal Hypertension, found that the drug tirzepatide – sold under the brand names Zepbound for obesity and Mounjaro for diabetes – significantly lowered the blood pressure of adults with overweight or obesity who took it for nine months.
+ 
+  This new study is part of a larger clinical trial that previously showed that weekly tirzepatide injections resulted in weight loss of up to 22% in adults with overweight or obesity, helping prompt the US Food and Drug Administration to approve the drug for chronic weight management in November. The research was funded by the drug’s maker, Eli Lilly.
+ 
+  To assess the effect of tirzepatide on blood pressure, the researchers enrolled 600 adults from the original clinical trial who had a body mass index of 27 or more, who did not have type 2 diabetes and who had either normal blood pressure or high blood pressure that was under control. The participants had their blood pressure monitored for a day before beginning treatment and again after nine months of weekly tirzepatide injections.
+ 
+  The results showed a significant decrease in the participants’ systolic blood pressure, the top number in blood pressure readings, which is a strong predictor of heart disease.
+ 
+  Participants taking 5 milligrams of tirzepatide weekly had an average reduction in systolic blood pressure of 7.4 mmHg, those on 10 milligrams had an average reduction of 10.6 mmHg, and those on 15 milligrams had an average reduction of 8.0 mmHg.
+ 
+  “An eight-point difference is really an impressive effect that rivals or exceeds many of our usual blood pressure medications,” said Dr. Harlan Krumholz, a cardiologist at Yale University who was not involved with the research.
+ 
+  The real effect of tirzepatide on blood pressure may be even more pronounced, given that most of the study participants did not have high blood pressure to begin with, said Dr. Michael E. Hall, chair of the Department of Medicine at the University of Mississippi Medical Center, who was not involved with this study.
+ 
+  Tirzepatide works by mimicking the action of two different gut hormones. When blood sugar rises after eating, the drug stimulates the body to produce more insulin, which lowers blood sugar. It also slows the movement of food from the stomach, making people feel fuller for longer. It works similarly to semaglutide, the active compound in the weight loss drug Wegovy and its sister diabetes drug, Ozempic. Wegovy was shown to reduce the risk of heart attack, stroke or heart-related death in people who had heart disease and obesity or overweight by 20% in a study last summer.
+ 
+  As for the new study, it’s not clear whether the significant reduction in blood pressure was due to the participants’ weight loss in the larger study or the medication. The study also did not account for participants’ dietary intake, which could play a role in the results.
+ 
+  Additional studies will be needed to determine tirzepatide’s effect on direct cardiovascular conditions like heart attack and heart failure and to assess whether the blood pressure changes reverse after people stop taking the drug, said Hall, who also chaired the writing group for the American Heart Association’s 2021 scientific statement on weight loss and hypertension, in a news release.
+ 
+  “Overall, these data are encouraging that novel weight-loss medications are effective at reducing body weight and they are also effective at improving many of the cardiometabolic complications of obesity including hypertension, Type 2 diabetes and dyslipidemia, among others,” he said.
+ 
+  The second study, published Monday in the Journal of the American College of Cardiology, found that adults who had high blood pressure and obesity who underwent bariatric surgery had lower body mass index and were on fewer blood pressure medications after five years than those who used only the medications.
+ 
+  The first-of-its-kind trial randomly assigned 100 adults with obesity and high blood pressure to a treatment regimen of either bariatric surgery and blood pressure medications, or blood pressure medications alone. After five years, the average body mass index of those who had bariatric surgery was 28, whereas people who received only blood pressure medications had an average body mass index of 36.
+ 
+  More than 80% of those who had bariatric surgery were able to reduce the number of blood pressure medications they were taking, compared with 14% of those who were only on medications. And almost 50% of those who underwent bariatric surgery achieved hypertension remission, defined as controlled blood pressure without medication.
+ 
+  “It shows a huge effect on the ability to reduce blood pressure medications and a huge effect in people being able to go off of medications for hypertension. It’s very impressive,” said Dr. David Maron, director of preventive cardiology at Stanford University, who wasn’t involved with the study.
+ 
+  The findings may not be generalizable to a broader population given that the study was performed at a single site with a small number of participants, but the results are exciting, Maron said. He added that although bariatric surgery is known to be very effective at treating obesity and diabetes, many people are not aware of its benefits and are hesitant to undergo such invasive treatment.
+ 
+  In the future, people with obesity who would like to control their blood pressure will probably have a choice between bariatric surgery and medications like tirzepatide, Hall said, depending on their disease characteristics and preferences.
+ 
+  More than 47% of adults in the United States have hypertension, defined as blood pressure over 140/90 mmHg, and nearly 42% of adults have obesity, according to the AHA’s 2024 Heart Disease and Stroke Statistics. These diseases are closely linked, as obesity is the main cause of high blood pressure; about 75% of hypertension can be attributed to obesity, according to the American Heart Association. And high blood pressure is a major risk factor for heart diseases like coronary artery disease and stroke.
+ 
+  “By treating one disease, obesity, we can potentially mitigate hundreds of other obesity-related conditions, including hypertension,” Dr. Ania Jastreboff, director of the Yale Obesity Research Center, who helped conduct the larger weight loss trial, wrote in an email.
+ 
+  Although there are effective blood pressure medications available, only about a quarter of people with hypertension have adequately controlled blood pressure, Hall said. This is often because people don’t take their medications. Finding a way to simplify and combine treatment for these diseases would make life much easier for both patients and doctors, Hall added.
+ 
+  Krumholz said that although much of the hype around tirzepatide has focused on its weight loss effects, the real health benefits lie downstream: weight loss leading to reduced blood pressure and increased ability to exercise, leading to improved heart health. He views the weight loss effect of the drug as a pleasant side effect that will make people more likely to take their medication.
+ 
+  Before the development of tirzepatide and similar obesity drugs, lifestyle modifications were the main way to treat obesity, Krumholz said. Though these are also beneficial, a healthy diet and more exercise often aren’t enough to combat the disease of obesity and our bodies’ evolutionary tendency to try to regain weight, he added.
+ 
+  “Patients would end up feeling bad about themselves and frustrated and guilty,” he said. “These [drugs] represent almost a miracle. [People] can now take a medication that not only helps them lose weight but can improve their health.”
+ 
+  However, the cost of these new weight loss medications and insufficient insurance coverage keeps many eligible people from accessing them, Krumholz said. He warned that unless these barriers are addressed, these new treatments could instead contribute to worsening health disparities in the US.
+ 
+CNN’s Meg Tirrell contributed to this report.
+ See Full Web Article 
+
+      Go to the full CNN experience
+    
+ 
+    © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.
+   
+
+      Terms of Use
+    
+
+      |
+    
+
+      Privacy Policy
+    
+
+      |
+    
+
+      Ad Choices
+    
+
+      |
+    
+
+      Cookie Settings
+    

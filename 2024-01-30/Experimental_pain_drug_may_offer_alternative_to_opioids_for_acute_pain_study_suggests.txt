@@ -1,0 +1,71 @@
+Source: https://lite.cnn.com/2024/01/30/health/experimental-pain-drug-vertex/index.html
+
+Experimental pain drug may offer alternative to opioids for acute pain, study suggests
+
+
+  By Meg Tirrell, CNN
+ 
+Updated: 
+        6:30 AM EST, Tue January 30, 2024
+     
+  Source: CNN
+ 
+  An experimental pain medicine met the primary goal of a late-stage clinical trial, the drug’s maker said Tuesday, setting the stage for it to seek approval from the US Food and Drug Administration this year and potentially providing an alternative to opioids that doesn’t carry the same safety risks.
+ 
+  The medicine from Vertex Pharmaceuticals, dubbed VX-548, was superior to a placebo in relieving pain after two kinds of surgery: abdominoplasty – also known as a tummy tuck – and bunionectomy, with a similar safety profile, Vertex said in a news release. A smaller Phase 3 study of acute pain relief for a broader range of conditions also demonstrated the drug’s safety and efficacy.
+ 
+  In a comparison with an opioid treatment – hydrocodone bitartrate/acetaminophen, the combination that makes up Vicodin – the drug failed to meet a goal of superior efficacy. But it showed similar relief to the opioid on a measure known as the Numeric Pain Rating Scale.
+ 
+  The results, combined with those from previous trials, suggest that VX-548 has “an unprecedented and compelling profile as an option for people who have acute pain,” said Vertex’s research chief, Dr. David Altshuler. The company said it will submit an application for approval to the FDA by mid-2024.
+ 
+  If it’s successful, it will represent the first new class of acute pain medicine in more than two decades, said Dr. Jessica Oswald, an associate physician in emergency medicine and pain medicine at the University of California San Diego and a member of Vertex’s acute pain steering committee, in the company’s release.
+ 
+  “The challenge with opioids is not that they don’t work,” Altshuler told CNN. “The challenge with opioids is that they come with all this baggage: the safety and tolerability and addictive potential.”
+ 
+  VX-548 works in a completely different way from opioids, blocking pain in the peripheral nervous system rather than acting in the brain. It targets a structure called a sodium channel, specifically one known as NaV1.8. Work in genetics has shown that people with mutations in genes for another sodium channel, NaV1.7, can have pain disorders where they may feel too much – or too little – pain.
+ 
+  There are nine sodium channels in total, but most of them are implicated in other functions of the body, Dr. Stephen Waxman, director of the Center for Neuroscience and Regeneration Research at the Yale School of Medicine, wrote in the New England Journal of Medicine in August. Lidocaine, for example, is an effective blocker of sodium channels, but it blocks too many; that makes it an effective tool for pain, but only locally, for dental or skin procedures, he explained.
+ 
+  NaV1.7 and NaV1.8 are “only expressed in peripheral nerves and only in pain-sensing fibers,” Altshuler said. “NaV1.7 initiates and then Nav1.8 propagates the pain signal as it goes along the nerve.”
+ 
+Previous attempts by other companies to develop pain drugs targeting NaV1.7 haven’t shown success, but Altshuler suggested that other medicines may not have targeted the sodium channel specifically enough, a problem he said doesn’t apply to VX-548 and NaV1.8. He noted that Vertex is also working on earlier-stage medicines targeting NaV1.7.
+ 
+  In the results reported Tuesday, Vertex enrolled more than 1,100 people who’d had abdominoplasty and a similar number who’d had bunionectomy, a corrective foot surgery. The drug was given by mouth, first at a dose of 100 milligrams and then by doses half that size every 12 hours until 36 hours after the first dose. Hydrocodone bitartrate/acetaminophen was given every six hours over 42 hours.
+ 
+  The main goal of the study was better pain relief than a placebo on a measure known as the sum of the pain intensity difference from 0 to 48 hours, or SPID48. VX-548 scored 118.4 on that scale, compared with 70.1 for placebo in the abdominoplasty patients and 99.9 vs. 70.6 in bunionectomy patients, handily meeting the study’s main goal.
+ 
+  Against the opioid drug on that measure, VX-548 had a better score in abdominoplasty patients by 6.6 points, but it wasn’t different enough to reach statistical significance. And its score was 20 points lower than the opioid in bunionectomy patients.
+ 
+  On a different measure, the Numeric Pain Rating Scale, VX-548 and the opioid comparator showed similar reductions: 47% and 43%, respectively, in abdominoplasty patients, who started at an average pain rating of 7.3 and 7.4. After 48 hours, patients on VX-548 reported an average reduction of 3.4 points, while those on the opioid drug reported an average reduction of 3.2 points. For bunionectomy, the reductions were 51% and 53%.
+ 
+  Vertex said its drug was generally well-tolerated, and common adverse events like nausea, headache, constipation and dizziness occurred less on the drug than in either the placebo or opioid groups.
+ 
+  The results follow those from a mid-stage study in December of VX-548 in another pain condition, diabetic peripheral neuropathy. Vertex said Tuesday that, ultimately, it aims to obtain broad approval for both kinds of pain.
+ See Full Web Article 
+
+      Go to the full CNN experience
+    
+ 
+    © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.
+   
+
+      Terms of Use
+    
+
+      |
+    
+
+      Privacy Policy
+    
+
+      |
+    
+
+      Ad Choices
+    
+
+      |
+    
+
+      Cookie Settings
+    

@@ -1,0 +1,67 @@
+Source: https://lite.cnn.com/2024/01/30/tech/fulton-county-cyberattack/index.html
+
+Fulton County government outage: Cyberattack brings down phones, court site and tax systems
+
+
+  By Alta Spells, Devon Sayers, Jason Morris and Sean Lyngaas, CNN
+ 
+Updated: 
+        7:51 AM EST, Tue January 30, 2024
+     
+  Source: CNN
+ 
+  An ongoing cyberattack against Georgia’s Fulton County, which includes parts of Atlanta, has brought some of the government’s systems to a standstill, halting access to court filings, tax processing and other services.
+ 
+  The outage has not been resolved, and it’s unclear when systems would return to normal.
+ 
+  The office of the county’s District Attorney Fani Willis lost access to its phones, internet and the court system website, according to a source with direct knowledge of the matter.
+ 
+  Willis indicted former President Donald Trump and 18 co-defendants in a 2020 election subversion case. Officials have not declared any connection between the attack and the election subversion case, and they have assigned no motive.
+ 
+  The communication, court and tax systems have all been brought down, said Fulton County Board of Commissioners Chairman Robb Pitts in a news briefing Monday. A source with first-ha﻿nd knowledge in Fulton County told CNN the internet and Odyssey court access are down as well. Odyssey court records at one point said the system could be down until February 5, but they were later updated to remove the timetable.
+ 
+  Pitts said Monday that the cyberattack has caused a widespread system outage and that the investigation was still in the preliminary stages.
+ 
+  “We at Fulton County take cybersecurity seriously and we place a high priority on the protection of sensitive information,” Pitts said. “At this time, we are not aware of any transfer of sensitive information about citizens or employees, but we will continue to look carefully at this issue.”
+ 
+  Access to property tax transactions and the justice system – including firearm registry and marriage licenses – were limited during the outage, and the county’s Department of Information Technology is working to address the Issue, according to a statement on its website.
+ 
+  The FBI in Atlanta told CNN it was aware of the incident and is in contact with Fulton County’s IT department, but it would not comment on specifics of the cyberattack.
+ 
+  “The FBI routinely advises the public and private sectors about cyber threats in order to help them guard against the actions of cyber criminals,” the FBI said in a statement. “We work with our interagency partners to identify, pursue, and defeat all those who partake in cybercrime.”
+ 
+  Ransomware attacks and other hacking threats have for years plagued state and local governments, which often don’t have the money and personnel to deal with the threat. In 2018, the city of Atlanta was hit with a ransomware cyberattack that cost the city millions to restore, according to The Atlanta Journal-Constitution.
+ 
+  A 2019 attack on city of Baltimore computers halted the city’s ability to process water-billing payments for three months, according to The Baltimore Sun. Baltimore officials estimated at the time that the ransomware attack would cost the city at least $18 million.
+ 
+  In January 2022, two separate cyberattacks disrupted public services in New Mexico’s most populous county, with one forcing the Albuquerque public school system to temporarily close and another knocking out cameras at a local jail.
+ 
+  US cybersecurity officials are trying to shore up the defenses of state and local governments with federal money and a program to warn companies and organizations that might be vulnerable to hacking threats.
+ See Full Web Article 
+
+      Go to the full CNN experience
+    
+ 
+    © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.
+   
+
+      Terms of Use
+    
+
+      |
+    
+
+      Privacy Policy
+    
+
+      |
+    
+
+      Ad Choices
+    
+
+      |
+    
+
+      Cookie Settings
+    

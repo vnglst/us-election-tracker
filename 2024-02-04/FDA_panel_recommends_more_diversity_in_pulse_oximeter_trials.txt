@@ -1,0 +1,133 @@
+Source: https://lite.cnn.com/2024/02/02/health/pulse-oximeters-skin-color-fda/index.html
+
+FDA panel recommends more diversity in pulse oximeter trials
+
+
+  By Jacqueline Howard, CNN
+ 
+Updated: 
+        8:24 PM EST, Fri February 2, 2024
+     
+  Source: CNN
+ 
+  The longstanding problem of pulse oximeters providing less-accurate readings for people with dark skin tones got another look Friday from a panel of experts for the US Food and Drug Administration.
+ 
+  The agency’s Anesthesiology and Respiratory Therapy Devices Panel of the Medical Devices Advisory Committee held a meeting to review ways to better evaluate the accuracy and performance of pulse oximeters in patients with darker skin.
+ 
+  Pulse oximeters – available both over-the-counter and by prescription – are fingertip clamps that send light beams through your finger to estimate the oxygen saturation of your blood and your pulse rate. Ongoing research has found that if these electronic devices are not calibrated for darker skin tones, the pigmentation could affect how that light is absorbed by their sensors, leading to inaccurate oxygen readings.
+ 
+  Because the general public uses these devices to check their oxygen levels, the FDA panel focused on how to ensure that pulse oximeters are performing accurately for all skin tones before they hit the market. 
+ 
+  In 2013, the FDA issued premarket guidance for developers of pulse oximeters, recommending that they have “a range of skin pigmentation” represented in their clinical studies of the devices, including at least two “darkly pigmented subjects or 15% of the study group,” whichever is larger.
+ 
+  The FDA is now considering proposals to update what these clinical trials look like so they include more diverse groups of people, with at least 24 participants spanning the entire range of skin tones on the 10-shade Monk Skin Tone scale.
+ 
+  “There’s no question that more diversity needs to be a part of whatever new requirements that they would issue,” Dr. Jeffrey Feldman, a member of the panel as well as the American Society of Anesthesiologists’ Committee on Equipment and Facilities, said just after the meeting adjourned.
+ 
+  “The prior requirements in 2013 were small numbers and really not very diverse – the only requirement was for up to two patients of color – and so that I think has proven to be inadequate to predict real-world performance,” he said, adding that results from laboratory testing, in which the environment is controlled and the participants are healthy, still might not completely reflect outcomes seen in the real world.
+ 
+  Many of the panel members agreed that even 24 participants spanning different skin tones may not be an adequate sample size.
+ 
+  “Twenty-four patients just seems low to me,” member Dr. Thomas Wiswell, a neonatologist in Hawaii, told his colleagues during the meeting.
+ 
+  “With 24, I still don’t know what that power is going to look like. My hunch is, it’s probably insufficient,” said Dr. Ben Saville, a member of the panel and a biostatistician in Texas.
+ 
+  Clinical studies should also evaluate how pulse oximeters perform over time for different skin tones, such as how long it takes for the device to provide a steady, accurate reading, panel member Dr. Tamorah Lewis, a physician scientist and the division head for clinical pharmacology and toxicology at SickKids in Toronto, said in the meeting.
+ 
+  Another outcome, she said, would be to measure over a certain time interval – whether that be two hours or four hours – how often unreliable readings may occur and how that might differ by skin tone.
+ 
+  The panel mostly agreed that using the Monk Skin Tone scale will be helpful.
+ 
+  “It’s the most diverse scale that we’ve discussed today,” member Dr. Cheryl Gooden, associate professor of anesthesiology and pediatrics at the Yale School of Medicine, said in the meeting.
+ 
+  Dr. Ellis Monk, a professor of sociology at Harvard University who developed the scale, presented his research to the panel as a tool that can be used when evaluating the performance of pulse oximeters with different skin tones. The Monk Skin Tone scale has been used by Google to improve representation in its products, he said.
+ 
+  Although there is more work to be done when it comes to evaluating pulse oximeters, Feldman said that the potential benefits of these devices still outweigh the limitations.
+ 
+  “This technology has and continues to save lives on a daily basis in this country. … It needs to be improved. We need to look at health disparities, and we need to do better,” he said after the meeting. “But we also need to recognize how valuable this technology is for patients every day, at home and in the hospital.”
+ 
+  The discussions in Friday’s meeting were intended to help inform the FDA’s ongoing evaluation of pulse oximeters, as the Anesthesiology and Respiratory Therapy Devices Panel assessed ways to improve the quality of premarket studies and heard from patients, researchers and developers of medical devices.
+ 
+  Edward McClure, who was diagnosed in 2013 with the lung disease emphysema, a form of chronic obstructive pulmonary disease or COPD, said he relies on pulse oximeter devices to check his blood oxygen levels because he has been prescribed oxygen therapy. But his readings have not always been accurate, he said, and he suspects that might be due to his skin color.
+ 
+  “Sometimes, when I get a reading, the pulse rate might say 27, and the OT rating might say 90 – and then I know that is not correct, because I know my pulse was not 27,” McClure, who is associated with the nonprofit Right2Breathe, told the panel.
+ 
+  “Then I’ll do it again, and it might be closer to what I feel is right, but sometimes I have to do it up to three times where I’m convinced that this is the right reading,” he said. “These pulse oximeters don’t always read accurately for people who have melanated skin or heavily melanated skin like myself.”
+ 
+  Ryan Jolly’s daughter requires advanced medical care at home, and Jolly uses a pulse oximeter to monitor her oxygen levels while she sleeps.
+ 
+  “We’ve been using pulse oximeters with her in our home for 10 years,” Jolly, who is associated with the International Children’s Advisory Network, said in the meeting.
+ 
+  Jolly, who is White, said she noticed that the pulse oximeter readings were much more consistent and accurate for her son, whom she described as being “much paler” than her daughter, who is African American.
+ 
+  “What we see with my daughter when I talk about consistency with a darker skin tone is that the machines tend to lose her reading for no reason that we can detect,” Jolly said. “She might be wearing it for hours at a time and we’re getting good readings and everything is fine, and then no one moves, nothing happens, and suddenly we’re getting an alarm message.”
+ 
+  Jolly needs the pulse oximeter readings to be consistent over time so she can continuously monitor her daughter’s well-being. McClure needs his pulse oximeter to provide accurate measures quickly so he knows how best to react to his health needs in the moment.
+ 
+  Even with different medical demands, they face the same pulse oximeter shortcomings.
+ 
+  Some of the companies behind pulse oximeters, such as Medtronic, have focused on education efforts to inform users about the potential for inaccuracies when pulse oximeters are used on darker skin tones – but they have not gone as far as issuing recalls for the products.
+ 
+  “Currently, we think that if there was a recall by any manufacturer around this, we would undermine public safety, because this is a foundational device in operating rooms, in ICUs, in ERs and ambulances,” Dr. Sam Ajizian, chief medical officer of patient monitoring at Medtronic, told the FDA panel in Friday’s meeting.
+ 
+  “We continue to evaluate, and we do feel that the benefits of the products in the field far, far outweigh the risks,” he said.
+ 
+  The pulse oximeter was invented in 1974, and a growing body of research — dating to the 1980s — shows that flawed readings among Black and brown patients can be a real and life-threatening issue in medical care.
+ 
+  “Studies have shown that pulse oximeters are three times more likely to provide misleading readings for patients with darker skin pigmentations, leading to missed critical diagnoses of low blood oxygen levels,” Dr. Jesse Ehrenfeld, president of the American Medical Association, said in Friday’s meeting.
+ 
+  In 2021, the FDA issued recommendations for patients, caregivers and health care providers to be aware of the limitations of pulse oximeters and how the devices may be less accurate in people with dark skin tones.
+ 
+  The FDA panel also met in November 2022 to review clinical data about the accuracy of pulse oximetry in patients with darker skin and to discuss recommendations on using these devices on people with dark skin tones and whether they should have labels – such as black box warnings – noting that inaccurate readings may be associated with skin color.
+ 
+  These devices became more widely used during the Covid-19 pandemic, putting a spotlight on the racial disparities in the accuracy of pulse oximeter readings, said Dr. Dionne Ibekie, an anesthesiologist in central Illinois who is not involved with the FDA panel meeting.
+ 
+  “I will admit, as an anesthesiologist, I and many of my medical colleagues were minimally aware of this discrepancy. It wasn’t something really emphasized in training or medical school. So I was shocked, but not surprised to learn about this pulse ox discrepancy,” Ibekie, who has talked about racial disparities in medicine on her podcast “The Ivy Drip,” wrote in an email Thursday.
+ 
+  She was not surprised, she said, because these devices — similar to many standards of care that are developed in medicine — are based on research that historically did not involve diverse groups of people.
+ 
+  “That standard is then applied to all people as a one-size-fits-all, but time and again, we have seen in medicine that this approach leads to poor outcomes for certain groups, especially Black patients,” Ibekie said.
+ 
+  “We need to address the root and work harder to conduct research with patients that represent our populations as a whole,” she said. “I’m happy the FDA is having a panel because my hope is that it leads to new practice guidelines and the development of new devices that are better suited for all patient groups.”
+ 
+  One study on flawed pulse oximeter readings, published in 2022, found that among more than 3,000 hospitalized patients receiving intensive care, those who were Asian, Black and Hispanic received less supplemental oxygen than White patients, and that was associated with differences in their pulse oximeter readings.
+ 
+  “Medical devices are typically developed in rich countries with white, fit individuals as test subjects,” the study’s senior author, Dr. Leo Anthony Celi, clinical research director and principal research scientist at the MIT Laboratory for Computational Physiology and a principal research scientist at the MIT Institute for Medical Engineering and Science, said in a news release at the time.
+ 
+  “Drugs are evaluated through clinical trials that disproportionately enroll white individuals. Genomics data overwhelmingly come from individuals of European descent,” Celi said. “It is therefore not surprising that we observe disparities in outcomes across demographics, with poorer outcomes among those who were not included in the design of health care.”
+ 
+  Another paper published in 2022 found that Black patients had higher odds than White patients of having low blood oxygen noted in their blood-drawn readings but not detected by pulse oximetry.
+ 
+  A separate study of about 7,000 Covid-19 patients, also published in 2022, found that compared with White patients, pulse oximetry overestimated oxygen levels in the blood by an average of 1.7% among Asian patients, 1.2% among Black patients and 1.1% among Hispanic patients. That overestimation may have contributed to an unrecognized or delayed recognition of someone’s eligibility to receive certain Covid-19 therapies.
+ 
+  “We know that Black and brown people were disproportionately affected by the pandemic, with Black people accounting for a larger percentage of morbidity and mortality,” Ibekie said.
+ 
+  “The driving assumption was that this was due mainly because of social determinants of health such as environmental racism, lack of access to care, and lower employment status to name a few,” she said. “Social determinants absolutely do have an impact on health outcomes in Black and brown populations, including with Covid-19. However, the pandemic made the medical community look a little further into the cause of disparity in outcomes and focus more on the bias of the pulse ox.”
+ See Full Web Article 
+
+      Go to the full CNN experience
+    
+ 
+    © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.
+   
+
+      Terms of Use
+    
+
+      |
+    
+
+      Privacy Policy
+    
+
+      |
+    
+
+      Ad Choices
+    
+
+      |
+    
+
+      Cookie Settings
+    

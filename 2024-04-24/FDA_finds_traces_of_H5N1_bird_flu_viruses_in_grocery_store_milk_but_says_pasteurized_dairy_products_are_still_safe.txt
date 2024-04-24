@@ -1,0 +1,101 @@
+Source: https://lite.cnn.com/2024/04/23/health/bird-flu-milk-fda/index.html
+
+FDA finds traces of H5N1 bird flu viruses in grocery store milk but says pasteurized dairy products are still safe
+
+
+  By Brenda Goodman, CNN
+ 
+Updated: 
+        8:27 PM EDT, Tue April 23, 2024
+     
+  Source: CNN
+ 
+  The US Food and Drug Administration said Tuesday that it had detected viral particles of H5N1 avian influenza in milk purchased at grocery stores, but the agency says it still believes that the milk is safe to drink.
+ 
+  In an update about an ongoing outbreak of bird flu in cattle, the FDA noted that it believes the viral particles were detected by highly sensitive lab tests and are likely to have been remnants of viruses killed during the pasteurization process. The agency said that it does not think it is likely that the particles would able to infect people but it is conducting additional tests to be completely sure.
+ 
+  The FDA said these egg inoculation tests are “a gold-standard” for determining whether a virus is still viable and able to infect people.
+ 
+  “To date, we have seen nothing that would change our assessment that the commercial milk supply is safe. Results from multiple studies will be made available in the next few days to weeks,” the agency said.
+ 
+  Dr. Eric Topol, founder of the Scripps Research Translational Institute, said the finding of viral particles in milk on grocery store shelves means the outbreak is probably more widespread than we’ve known.
+ 
+  “The dissemination to cows is far greater than we have been led to believe,” Topol said in an email Tuesday.
+ 
+  “The FDA assurance that the dairy supply is safe is nice, but it’s not based on extensive assessment yet, which they acknowledge, and won’t engender trust and confidence because it comes in the wake of USDA mishandling,” he added.
+ 
+  The US Department of Agriculture confirmed in late March that it had detected highly pathogenic avian influenza in dairy cows in Texas and Kansas, which was the first time a virus that has been decimating bird populations around the globe had shown up in cattle. Since then, infected cows have been confirmed in more than 30 farms across eight states. Scientists have said the USDA is sharing too little information about the virus and too slowly.
+ 
+  The infected cows stopped eating as much as they usually did, and their milk became thickened and discolored. Veterinarians running tests on the animals found that the milk was teeming with the virus, although samples from their lungs didn’t show much evidence of infection, leading the doctors to believe that the animals’ mammary glands were directly infected, perhaps through shared milking equipment.
+ 
+  Researchers are still trying to determine how cows initially became infected and how the virus is spreading between animals.
+ 
+  Cats that have lived on the same farms as infected cows have died, perhaps after exposure to their milk.
+ 
+  The FDA said Tuesday that milk from sick cows is being “diverted or destroyed,” while milk sold in interstate commerce is being pasteurized, a process that heats it briefly to kill microbes.
+ 
+  “Even if virus is detected in raw milk, pasteurization is generally expected to eliminate pathogens to a level that does not pose a risk to consumer health,” the FDA stated.
+ 
+  The agency said 99% of milk in the commercial supply comes from farms that follow the pasteurized milk ordinance, “which includes controls that help ensure the safety of dairy products.” However, it noted that pasteurization doesn’t render milk completely sterile.
+ 
+  For that reason, it has been running tests on milk samples collected at grocery stores across the country. It is also collaborating with the food safety group at the US Centers for Disease Control and Prevention.
+ 
+  The FDA has long recommended that consumers not drink unpasteurized or raw milk because of the possibility that it may harbor germs that can pose serious health risks.
+ 
+  So far, efforts to track the spread of the current oubreak have relied on voluntary reporting.
+ 
+  The USDA’s Animal and Plant Health Inspection Service keeps a list of diseases that are required to be reported in animals. Although avian influenza, or bird flu, is required to be reported in poultry and wild birds, reporting is not required in cattle.
+ 
+  “No one ever thought it was going to be in cows,” said Dr. Richard Webby, director of the World Health Organization’s coordinating center for studies on the ecology of influenza at St. Jude’s Children’s Research Hospital.
+ 
+  “You wouldn’t even think of an H5N1 in cows being something you’d ever have to worry about, and I think that’s where it’s fallen through the cracks a little bit.”
+ 
+  Not only does the USDA require reporting of H5N1 in poultry, it rewards producers for reporting at the first sign of illness in their flock and financially compensates them for birds and eggs that are destroyed to contain an outbreak. This approach has encouraged farmers to be forthcoming with information, said Dr. Michael Osterholm, who directs the Center for Infectious Disease Research and Policy at the University of Minnesota.
+ 
+  There are no such policies in place to encourage reporting in other livestock.
+ 
+  Osterholm said his major worry is that the outbreak could spread to pigs, since farms that keep cows often keep other types of animals, too.
+ 
+  Flu viruses enter cells through sialic acids, which serve as entry points. Right now, the H5N1 virus hasn’t learned to efficiently access the human version of the sialic acid receptor.
+ 
+  Pigs have the same sialic acid receptors as both birds and humans in their respiratory tracts. If H5N1 causes a large outbreak in pigs, Osterholm said, it would give the virus a perfect opportunity to learn to attach to human sialic acids.
+ 
+  “Pigs are a more efficient mixing bowl,” said Dr. Peter Hotez, a professor of pediatrics, molecular virology and microbiology at the Baylor College of Medicine in Houston. “The one thing about where we are in Texas is that, in addition to those cattle, Texas is the epicenter of the feral hog population.”
+ 
+  “In the United States, we have 30% of the nation’s feral hogs, 2 to 3 million feral hogs, and so that to me is a potential risk, as well,” he said.
+ 
+  The USDA said it has encouraged farmers and ranchers to report cases of sick cattle to state animal health officials.
+ 
+  But neither cows nor the people who work or live around them are being widely screened for the infection, which would require informed consent. Testing of wastewater in areas with outbreaks is also being discussed.
+ 
+  Instead, the CDC is monitoring emergency department data and flu testing data in areas where H5N1 viruses have been detected in dairy cattle for any unusual trends in flu-like illness, flu or conjunctivitis. “So far, these data remain in expected ranges, and to date, surveillance systems do not show any unusual trends or activity,” according to information in a statement compiled by officials at the CDC.
+ 
+  CDC spokesperson Jason McDonald said that 23 people with exposures to H5N1 had been tested, including one person in Texas who previously tested positive. No other people have tested positive in the current outbreak, he said.
+ See Full Web Article 
+
+      Go to the full CNN experience
+    
+ 
+    © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.
+   
+
+      Terms of Use
+    
+
+      |
+    
+
+      Privacy Policy
+    
+
+      |
+    
+
+      Ad Choices
+    
+
+      |
+    
+
+      Cookie Settings
+    

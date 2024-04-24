@@ -1,0 +1,107 @@
+Source: https://lite.cnn.com/2024/04/23/health/h5n1-usda-gisaid-genetic-sequences/index.html
+
+Scientists say USDA is sharing too little data too slowly on H5N1 flu
+
+
+  By Brenda Goodman, CNN
+ 
+Updated: 
+        2:25 PM EDT, Tue April 23, 2024
+     
+  Source: CNN
+ 
+  When the US Department of Agriculture announced late Sunday that it had publicly posted new data from its investigation into a bird flu outbreak in cattle, scientists eagerly searched a well-known platform used globally to share the genetic sequences of viruses.
+ 
+  The sequences weren’t there. As of Tuesday morning, they still aren’t.
+ 
+  Researchers looking to track the evolution and spread of H5N1 say the information that was posted — raw data on a US server — isn’t very useful and is anything but transparent. They also say the government’s release of information in the outbreak, which was confirmed in cattle almost a month ago, has been painfully slow.
+ 
+  After Sunday’s announcement by the USDA, Dr. Rick Bright, an immunologist and vaccine researcher who led the Biomedical Advanced Research and Development Authority from 2016 to 2020, said he immediately called his contacts at the database, called the Global Initiative on Sharing All Influenza Data, or GISAID, to make sure he wasn’t missing something.
+ 
+  “I said ‘Look, just tell me: Do you have data?’ and they said ‘No,’” Bright said.
+ 
+  After checking even parts of the database where people can post rough drafts of sequences prior to full public release, Dr. Lucas Freitas, a Brazilian data scientist who is the GISAID curation lead, confirmed there are no new sequences posted by the USDA since its announcement.
+ 
+  “We wouldn’t miss it,” said Peter Bogner, founder and president of GISAID. “H5 is the reason GISAID came about to begin with. It raises antennas.”
+ 
+  The highly pathogenic avian influenza strain H5N1 has decimated bird populations around the world, and in recent years, has moved into a growing variety of mammals, raising concern that it’s a step closer to becoming a virus that can spread efficiently in people.
+ 
+  When the USDA confirmed that H5N1 had been detected in dairy cows in Texas and Kansas on March 25, the news put infectious disease experts on alert, and they were eager to get more information to see how the virus had changed to target a new host. The USDA’s Animal and Plant Health Inspection Service, or APHIS, says H5N1 has now been found in 32 herds in eight states.
+ 
+  But weeks have gone by, and little data on the US outbreak has been shared with the global scientific community.
+ 
+  In its notice posted Sunday, APHIS said it had shared 239 genetic sequences from the H5N1 outbreak “from cattle, cats, chickens, skunk, racoon, grackle, blackbird, and goose.”
+ 
+  The agency said it “routinely publishes” on GISAID, but in the interest of public transparency and “ensuring the scientific community has access to this information as quickly as possible …” it was “also rapidly sharing” sequences to a US database maintained by the National Library of Medicine.
+ 
+  The announcement suggested to many scientists that the information would be found in GISAID, which has been critical to tracking the evolution of the virus that causes Covid-19 as it moves around the world. Many countries, including the United States, use GISAID to quickly share genetic sequences — the exact order of four chemical building blocks that make up the blueprints of each virus.
+ 
+  Instead, the USDA uploaded raw sequencing data, called FASTQ files, to the National Library of Medicine database, which is available to the public. These FASTQ files, however, lack the critical information necessary to help scientists track the evolution of the virus, such as the exact date the sample was collected and what state it came from.
+ 
+  Scientists do use raw data when tracking the evolution of a virus, but they also typically use it in concert with the type of information that is typically posted to GISAID: consensus sequences, known as FASTA files, which have been refined and cleared of contamination and mistakes. Consensus sequences typically give more information about where the sample was collected and when, helping researchers better understand how a virus is changing over time.
+ 
+  Researchers say it’s not clear how recently the samples that are the basis for the raw data were taken. The only dates posted say “2024,” and the locations are only listed as “USA.” There’s no information on how the samples were obtained — whether they come from swabs of an animal’s respiratory tract its skin, or somewhere else.
+ 
+  In response to emailed questions from CNN, Shilo Weir, a public affairs specialist for USDA, said the agency had posted the raw data to the US server in the interest of speed and said the agency would work quickly to get curated sequences to GISAID.
+ 
+  “APHIS typically posts curated sequence data on the GISAID platform. However, in order to make sequence data public as soon as possible, APHIS uploaded these unanalyzed sequence data files to NCBI,” Weir wrote in the emailed response.
+ 
+  “These sequences will not be curated before posting, but this approach will allow us the most rapid path to posting sequence information. APHIS will continue to work as quickly as possible to publish to GISAID curated files that incorporate and analyze relevant epidemiologic information along with the sequence data,” Weir said.
+ 
+  It’s also not clear whether the latest release represents all the genomes the agency has.
+ 
+  Dr. Michael Worobey, a professor of ecology and evolutionary biology at the University of Arizona, said the USDA was making a mistake by not sharing all the information it has as quickly as possible.
+ 
+  “There’s a whole community around the world of people like me and my colleagues, who have a lot of experience with this and often can see things or do analyses that might show something that others have missed,” Worobey said.
+ 
+  “You don’t want essentially one group to be the only ones looking at the data. You want everyone, all the experts around the world to be able to do that,” Worobey added.
+ 
+  Dr. Tom Inglesby, who directs the Johns Hopkins Center for Health Security at the Bloomberg School of Public Health, said USDA’s public release of the raw data was a step in the right direction, but it didn’t go far enough.
+ 
+  “The additional information would be quite useful for the public and for scientists and public health agencies, research organizations to understand all of the data that has been collected so far, what farms have been tested, when they were tested, what the sampling strategy is, overall, what kind of testing is going on now, around the country,” he said.
+ 
+  “Now that we know that there are asymptomatic cows that have tested positive, what’s the strategy to understand the extent to which cows are infected that don’t have symptoms in other herds? Because I think the most important objective here is to get a full picture of the outbreak.”
+ 
+  Influenza viruses change quickly and have caused some of the most devastating pandemics throughout history.
+ 
+  “What we’re seeing right now is chapter one of the book that keeps people like me and many infectious disease epidemiologists up at night,” said Dr. Michael Mina, who is chief scientific officer of the telehealth company eMed and an expert in the epidemiology, immunology and spread of infectious disease.
+ 
+  The Covid pandemic was bad, but Mina said a pandemic caused by this virus could be worse.
+ 
+  “The genie is not out of the bottle yet, and that’s a good thing,” Mina said, but given the potential consequences of letting the virus spread unchecked, “It’s a little bit hard to suggest we could be doing too much right now.”
+ 
+  Scientists have followed H5N1 for roughly two decades as it ripped through populations of wild and domestic birds and more recently marine mammals like sea lions, but human-to-human spread after contact with animals has been sporadic and not sustained, suggesting the virus has not mutated enough to become a fully human pathogen. There’s been no evidence of person-to-person spread in the current US outbreak, according to the U.S. Centers for Disease Control and Prevention.
+ 
+  Humans have been infected after contact with animals, however — a chilling reminder that the virus still has us in its sights and requires close monitoring.
+ 
+  “It’s so critical that the US government is being as transparent as they can right now, overly transparent, and sharing all of these sequences and all of this data so the world can look at it and make their own risk assessments and start making their own vaccine if they need to in their own countries instead of waiting for the United States to say what’s good and what’s bad,” said Bright, who is CEO of Bright Global Health in Washington, DC.
+ 
+  “What would we say if this particular virus did get out of control?” Bright said. “Would we look back on this last two or three months and say: ‘I wish we would have done something else; I wish we would have been more transparent; I wish we would have shared all these sequences so the world can get ready for this?’”
+ See Full Web Article 
+
+      Go to the full CNN experience
+    
+ 
+    © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.
+   
+
+      Terms of Use
+    
+
+      |
+    
+
+      Privacy Policy
+    
+
+      |
+    
+
+      Ad Choices
+    
+
+      |
+    
+
+      Cookie Settings
+    

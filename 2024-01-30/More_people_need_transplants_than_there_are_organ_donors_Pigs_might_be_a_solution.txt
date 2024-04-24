@@ -1,0 +1,227 @@
+Source: https://lite.cnn.com/2024/01/30/health/pig-organ-transplant-xenotransplantation/index.html
+
+More people need transplants than there are organ donors. Pigs might be a solution
+
+
+  By Jen Christensen, CNN
+ 
+Updated: 
+        1:43 PM EST, Tue January 30, 2024
+     
+  Source: CNN
+ 
+  Last summer, after more than a decade of illness, Lawrence Faucette and his wife, Ann, faced the hard reality that the end of his life was near.
+ 
+  He was 58 and had end-stage heart failure. Peripheral artery disease made him ineligible for a heart transplant.
+ 
+  After a particularly grueling week at the hospital, where doctors were unable to get his heart function where it needed to be, he decided he’d had enough. He chose to leave, figuring he’d rather die at home.
+ 
+  But before he could go, one last doctor came to talk to him. For two hours, she went over what she was seeing and for the first time, Ann said, really giving straight answers about his condition.
+ 
+  During that long conversation, the doctor asked an unusual question: Would they ever consider xenotransplantation?
+ 
+  “Initially, we had no idea what they meant, but we were interested in anything,” Ann said.
+ 
+  Ann and Larry knew a bit about the science. They had met three decades earlier while attending medical laboratory school when they both were in the military. They understood that xenotransplantation meant transplanting tissue from one animal to a different species. They knew that doctors have long used pig valves to repair the human heart.
+ 
+  But what was being offered now was different: A healthy heart could be transplanted into Larry from a pig that had been genetically modified to make its organs a better fit for humans.
+ 
+  Searching on his phone during their drive back home to Frederick, Maryland, Larry learned that this kind of transplant had been tried on only one other living person. There were no guarantees that it would work for him, and doctors didn’t know how long it would last.
+ 
+  The need for more transplant organs is immense and growing. Some scientists think animal organs might be a good way to increase the supply, but the science has been stalled as researchers tried to figure out how to prevent organ rejection and avoid dangerous infections. They also have to untangle complicated ethical questions, including how to test such organs.
+ 
+  But recent advances in cloning and gene editing, along with better understanding of infection control, have led a handful of institutions to breakthroughs — key steps that could allow the US Food and Drug Administration, one day soon, to sign off on a clinical trial.
+ 
+  Researchers have transplanted genetically modified pig kidneys and hearts into people who were brain-dead to test whether they work in humans. This month, doctors showed that a pig liver could filter blood when attached to a recently deceased person. Just last week, doctors said they had identified the mix of immunosuppressants needed to prevent pig kidneys from being rejected by human bodies.
+ 
+  And twice, surgeons have transplanted genetically modified hearts into living people: willing test subjects who understood that their deaths were imminent and that no transplant was likely to save them but that xenotransplantation could save many lives in the future.
+ 
+  Although Larry Faucette was too sick for a human heart transplant, University of Maryland doctors said he seemed physically strong enough for a genetically modified pig heart. They sent him to a string of experts: the surgeons who further explained the procedure, a medical ethicist, social workers and a psychologist.
+ 
+  After the FDA signed off on the procedure through its “compassionate use” program in September, he became the recipient of a pig heart modified to work in a human.
+ 
+  Larry, a contract scientist at the National Institute of Allergy and Infectious Diseases for almost 10 years, was realistic about his chances with the heart. But he felt strongly that if it could help doctors learn and eventually benefit others, he’d be fine with being “a human guinea pig,” Ann said.
+ 
+  Still, Ann was hopeful it would work, even for a little while.
+ 
+  In the United States, more than 100,000 people are waiting for an organ transplant. There aren’t enough donors, and even if everyone signed up to do so, less than 1% of those who volunteer die in such a way that their organs are viable for transplantation. On an average day, 17 people die waiting for an organ.
+ 
+  “That someone has to die for someone to live is a broken paradigm,” said Dr. Robert Montgomery, director of the NYU Langone Transplant Institute and one of the researchers who has been exploring xenotransplantation. “I think animals are the answer.”
+ 
+  For Montgomery, the science is personal. In 1976, when he was 14, he lost his father to heart failure. It was more than a decade after the first heart transplant but long before such procedures became relatively routine.
+ 
+  At the time, doctors said a transplant wasn’t worth it. Although the majority of patients today survive and can live many years with heart transplants, in the 1970s, less than half of those who got a heart transplant lived more than a year.
+ 
+  “That has been kind of sitting in my brain for all these years,” Montgomery said.
+ 
+  He has the same genetic problem that caused his father’s heart failure. Five years ago, he had his own heart transplant. But the number of donor organs is so limited that he went into cardiac arrest seven times before he even qualified to be on the donor list.
+ 
+  “You have to fly by the sun, you know, without ending up burning up, which is what most people end up doing,” Montgomery said. Xenotransplantation, he said, is “going to really change everything.”
+ 
+  Transplanting organs from animals to humans isn’t a new idea. Decades ago, doctors thought primates were the best candidates for xenotransplantation, and in 1984, they transplanted a baboon heart into a child who went on to live for 21 days.
+ 
+  “But primates turned out to be too small, too expensive and too controversial,” said Dr. Art Caplan, a professor of bioethics and founding head of the Division of Medical Ethics at NYU Grossman School of Medicine’s Department of Population Health. Primates also didn’t breed as quickly as pigs do.
+ 
+  Bottom line, Caplan said: “It didn’t work.”
+ 
+  Pig organs, though, are anatomically similar to humans’. For more than three decades, pigs’ heart valves have been used to repair human hearts. Pig products go into dozens of life-saving drugs like epinephrine, which is used to treat severe allergic reactions, and heparin, a blood thinner.
+ 
+  Humans are also more ethically comfortable with organs from pigs than non-human primates, Caplan said. Pigs have been in “Disney-esque” stories that make people sympathetic, but “Babe” and “Charlotte’s Web” didn’t stop everyone from eating pork “at a rate of a billion or so per year,” Caplan said. “So it’s a little hard to object to using a dozen in transplants.”
+ 
+  Still, transplanting a whole organ from a pig has been difficult because of genetic differences that cause the human body to reject them. There are also concerns that a pig organ could carry a latent virus that could hurt a human recipient and even spread to other humans.
+ 
+  At a Midwest research farm, grunting, snuffling wet-nosed pigs move to the front of their pens, hoping for a marshmallow treat. They’re being raised by eGenesis, one of the biotech firms developing animals for xenotransplantation, for research including primate studies.
+ 
+  “These donors have the potential to save people’s lives,” eGenesis CEO and President Dr. Mike Curtis told CNN Chief Medical Correspondent Dr. Sanjay Gupta as he surveyed the animals in his care. “We’re that close.”
+ 
+  To create the pigs, eGenesis starts with a skin sample isolated from a breed called the Yucatan minipig and cultures it to expand the cells, then uses CRISPR to make 69 edits that insert some human genes and remove some pig genes. Other companies, including the ones that have supplied the organs for the most recent experiments with humans, use fewer edits.
+ 
+  To turn the edited cells into a pig, cloning is required, taking the edited cells and fusing them with a donor egg cell that has had its nucleus removed to create a pig embryo. That embryo is then transferred to a surrogate sow. The genetically modified piglets are born by C-section and raised by the eGenesis staff.
+ 
+  Throughout the process, the pigs are kept in extremely clean conditions. When humans interact with them, even just to give them a marshmallow, they must shower in and wear company-supplied shoes and clothes. Early in life, pigs are especially prone to infection — and infection could be a major risk to human recipients.
+ 
+  “To enable this whole technology, there’s the equivalent of five or six Nobel Prize discoveries that we need to have,” Curtis said. “We’re integrating all of those to make this a reality.”
+ 
+  The reality is that xenotransplantation still has major steps to take before it’s available to the general public.
+ 
+  It hasn’t been studied in clinical trials. The FDA told CNN that xenotransplantation shows “great promise, but there are also potential risks” and that it recommends such transplants be limited to people with serious or life-threatening diseases for whom adequate alternatives aren’t available.
+ 
+  For those patients and their families, it’s a narrow path to hope.
+ 
+  In September 2021, Julie O’Hara was helping her children plan their father’s funeral when she received an urgent call from a surgeon. It didn’t make sense at the time: Jim Parsons, 57, was brain-dead after a dirt bike accident, and there was no chance of survival.
+ 
+Dr. Jayme Locke, director of the University of Alabama at Birmingham’s Comprehensive Transplant Institute, essentially said she couldn’t bring back O’Hara’s ex-husband, but she could make him an important part of medical history. Locke was asking to transplant two genetically modified pig kidneys into Parsons, not because he needed them or because they could save him but because it could give doctors a chance to see whether the pig organs functioned safely in a human body.
+ 
+  Earlier that month, a team at NYU — including Caplan and Montgomery — had planned and performed a similar procedure, transplanting a genetically modified pig kidney into a brain-dead person. For 54 hours, the kidney produced urine and seemed to perform like a human kidney transplant would, and there were no signs of rejection.
+ 
+  O’Hara said Parsons would have wanted to be a part of the research. “We know that organ donation was definitely the way to go for us,” she said.
+ 
+  With O’Hara’s permission, they acted quickly to transplant the two pig kidneys.
+ 
+  “In some ways, it was surreal,” Locke said. “You can almost sort of feel the room hold its breath and then exhale as the clamps come off and the kidney turns pink and starts to make urine.
+ 
+  “The magnitude of what we’re doing, of how we’re trying to help people, it’s exciting and overwhelming and humbling and joyful.”
+ 
+  The next year, in January 2022, surgeons at the University of Maryland School of Medicine made another leap and transplanted a genetically engineered pig heart into a living person.
+ 
+  David Bennett Sr., 57, was in end-stage heart failure and had been bedridden for weeks, attached to a machine in order for his heart and lungs to work. He didn’t qualify for a human heart transplant.
+ 
+  The pig heart transplant option was like one of those “hail Mary passes” in the football games his father loved, said Bennett’s son, David Jr.
+ 
+  For weeks, it worked well. He got stronger, and initially, his body showed no signs of rejecting the heart. He was able to visit with family, did physical therapy and was even strong enough to stay up and watch the Super Bowl. Video shows him weakly singing “America the Beautiful” with his physical therapist.
+ 
+  Bennett had hoped to go home and see his beloved dog, Lucky, but about 40 days after the surgery, his son said, the donor heart started to fail. Later, doctors determined that there were several overlapping problems. One was a virus from the pig that had not spread elsewhere in his body but had led to damage in the heart.
+ 
+  The donor pig had been screened for pathogens multiple times using protocols accepted by the FDA, and the heart had been genetically modified to eliminate the risk of infection and rejection. Bennett had also received anti-rejection medication, and hospital staffers used special isolation procedures for the patient and the equipment; since then, they’ve introduced improved testing protocols.
+ 
+  Still, on March 8, about two months after the procedure, Bennett died.
+ 
+  “That was very tough, but at least we got to spend additional time, and it was pretty remarkable to be a part of that historic moment,” his son said.
+ 
+  Doctors say transplants in living recipients have taught them so much more than what they could learn from an animal model.
+ 
+  “Every transplant we have done, from the first one, we learned a lot,” said Dr. Muhammad M. Mohiuddin, professor of surgery and scientific/program director of the Cardiac Xenotransplantation Program at the University of Maryland School of Medicine.
+ 
+  Although they understood how these transplants worked in animals, doctors didn’t even understand some of the basics they would need to know to move the science closer to clinical trials.
+ 
+  “We learned that the pig heart is an adequate substitute for a human heart. We couldn’t say that until we actually put a pig heart in and, like a gasoline lawnmower, started it up and then let it run,” said Dr. Bartley Griffith, a part of Larry Faucette’s and David Bennett’s transplant team and a professor of cardiac surgery at the University of Maryland Medical Center.
+ 
+  “In fact, the first heart I named the ‘rock star’ because it just kept cranking and squeezing beautifully,” Griffith added. “Before rejection, it outperformed a typical human transplant.”
+ 
+  Ann Faucette said she and her husband had no regrets about going through with the pig heart transplant, but it was difficult to watch the love of her life go through ups and downs after the procedure.
+ 
+  What got them through it, in part, was humor. As soon as Larry could talk after surgery, one of the first things he asked for a T-shirt that said “Just call me Wilbur,” the name of the pig at the center of E.B. White’s beloved novel “Charlotte’s Web.” When doctors had to clear fluid from around his heart, he asked to have a pig drawn on the bandage.
+ 
+  On good days, Larry visited with family. They played Uno nearly every day, and eventually he was able to get out of bed and pedal on a recumbent bike. The bad days were mostly when he’d need more surgery. His heart wasn’t beating fast enough, so doctors added a pacemaker. One of the leads from the device made a small hole, so they had to repair it.
+ 
+  “Any of the progress that he made initially, he really lost by going back to the OR multiple times,” Ann said.
+ 
+  Around the end of October, the heart just didn’t seem to be doing as well. Doctors updated Larry on his health every day, but he could tell that the amount of blood the heart pumped was going down. “He could feel it,” Ann said.
+ 
+  Larry was placed on a heart-lung bypass machine called ECMO to give the heart a chance to rest. But eventually, Ann said, he told his family and doctors that he thought he was done. At his request, doctors removed the ECMO machine.
+ 
+  On his final day, she said, he spent time joking and reminiscing.
+ 
+  “He got to say those things that you don’t get to say to people because you always think you have more time,” Ann said.
+ 
+  He died October 30, about six weeks after the surgery.
+ 
+  “I knew it was going to come and then got extra time, and I got the satisfaction that he accepted it and was OK with it,” Ann said. “Well, as OK as you could be with the end of your life.”
+ 
+  Ultimately, NYU ethicist Caplan and some other scientists see xenotransplantation as a bridge: a relatively short-term solution that will help end the organ shortage in the next five to seven years, until scientists can figure out how to regenerate a person’s own injured or nonfunctioning organ.
+ 
+  Some researchers are making headway with 3-D organ bioprinting, for example. Transplants from pigs may come to work well, Caplan said, but they’re “not as elegant.”
+ 
+  Not everyone sees animal organs as a temporary solution. Mohiuddin, the Maryland surgeon, says that while there is still a lot to learn, xenotransplantation will be a “valid option.”
+ 
+  “In the future, it can be offered to patients on a regular basis and hopefully will save thousands or millions of lives,” he said.
+ 
+  NYU’s Montgomery said animal organs could one day replace dialysis and the need for heart devices. In a decade, he expects that they will be “as common as receiving an organ from a human, maybe even more common.”
+ 
+  To UAB’s Locke, being able to take xenotransplantation from the bench to bedside is about health equity.
+ 
+  “That is what motivates me more than anything else, is really being able to offer this lifesaving therapy to everyone who comes to see me,” Locke said.
+ 
+  With organs in short supply, doctors often have to make tough choices about who can be on the waiting list. With a viable alternative, this wouldn’t be such a problem.
+ 
+  “Some days, it just feels like we’re rearranging the deck chairs on the Titanic because we don’t have enough, and so solving that is just really important to me,” she said.
+ 
+  Proponents like eGenesis’ Curtis say that using pigs as donors would not only increase the supply of organs, it could bring down the cost of transplants.
+ 
+  Currently, hearts and lungs need to be transplanted within six hours of removal. Kidneys have slightly more leeway, with a 36-hour transplant window. But with human organs, doctors never know exactly when an organ will become available, and knowing what organs are in the pipeline would change how the system operates and make it much more efficient.
+ 
+  “If we know we have an unlimited supply of donors, we can schedule the surgery,” Curtis said. “That takes a lot of the emergency-type costs out of the system.”
+ 
+  Families whose lives have been touched by xenotransplantation say that being part of the solution soothes some of the pain.
+ 
+  For Parsons’ children, the loss of their father has been as hard as any would imagine, O’Hara said. But it helped that they donated his body to science and were part of a peer-reviewed study that researchers around the world can learn from. UAB also named the method for testing the organs on a brain-dead person the Parsons model, a tribute that has touched the family.
+ 
+  “I’m not going to say that it’s in any way made up for his death, but it’s made it much easier to know the legacy that he’s left,” O’Hara said.
+ 
+  In 2023, when Bennett’s family learned that a second living patient — Larry Faucette —had received a pig heart, they sent letters and drawings from his grandchildren to show their support.
+ 
+  “It’s a world you don’t know exists until you’re in it yourself, and so you’re trying to be supportive as a family and recognize all that the family is going through in that journey,” Bennett’s son said.
+ 
+  The loss of Bennett and Faucette hit doctors who’d worked with them, too. Griffith, the Maryland surgeon, said it’s very sad to lose any patient, but with Faucette, he was “really messed up for a while.”
+ 
+  “These patients have been so wonderful in terms of their ability to separate their own death from what their involvement in this might mean to others,” Griffith said. “I think we felt released from the weight of feeling that maybe there was a sense that we had inappropriately experimented.”
+ 
+  For Ann Faucette, her husband’s death hits her at unexpected times: She cried after watching an NFL playoff call that would’ve made him scream. During the week, she gives in to Larry’s dogs’ demands and sits between Kate and Lucy to watch “Let’s Make a Deal,” just like he would’ve done.
+ 
+  “He knew when he passed he was going to be cremated and sitting on my mantel,” Ann said. Now, the urn containing his ashes sits next to two photos of the pig that extended her husband’s life, giving them nearly two more precious months together.
+ 
+  “For me, this was selfish. It was some more time,” Ann said. “But for him, it was the thought that he could do something to really help others.”
+ 
+  She wants to keep talking about xenotransplantation, since he can’t. She wants to see more research. She wants Larry’s sacrifice, and her own, to mean something.
+ 
+  “It was a roller coaster,” she said. “But if we had to do it all over again, it would still be the same. We still would do it.”
+ 
+CNN’s Nadia Kounang contributed to this report.
+ See Full Web Article 
+
+      Go to the full CNN experience
+    
+ 
+    © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.
+   
+
+      Terms of Use
+    
+
+      |
+    
+
+      Privacy Policy
+    
+
+      |
+    
+
+      Ad Choices
+    
+
+      |
+    
+
+      Cookie Settings
+    

@@ -1,0 +1,59 @@
+Source: https://lite.cnn.com/2024/01/29/politics/fbi-doj-chinese-hacking-us-infrastructure/index.html
+
+FBI and Justice Department use court order to try to disrupt Chinese hacking targeting key US infrastructure
+
+
+  By Sean Lyngaas and Evan Perez, CNN
+ 
+Updated: 
+        11:07 PM EST, Mon January 29, 2024
+     
+  Source: CNN
+ 
+  The FBI and Justice Department have used a court order to address vulnerabilities in thousands of internet-connected devices that are at the center of a Chinese hacking campaign targeting sensitive US critical infrastructure, two US officials and a third source familiar with the matter told CNN.
+ 
+  The move is part of a broader, government-wide effort to blunt the impact of a persistent Chinese hacking effort that US officials fear could hinder any US military response in the event of a Chinese invasion of Taiwan, the source familiar said. The hackers are believed to be using access to some of the devices to burrow further into sensitive critical infrastructure — things like ports and transportation networks.
+ 
+  The court order allows the Justice Department to update vulnerable software used by thousands of devices in the US that are vulnerable to the Chinese hacking, the source said.
+ 
+  The Justice Department action is an effort to undercut the Chinese hackers’ ability to communicate with some of the infrastructure used in the hacks. But the hackers are believed to be deeply entrenched in US infrastructure. “We will need to keep doing it,” the source familiar told CNN. The White House has in recent months held a series of meetings with tech firms like internet and cloud computing providers to try to better track the Chinese hackers’ activity, the source said.
+ 
+  The Justice Department and FBI declined to comment. Reuters first reported on the US law enforcement activity.
+ 
+  In revealing the alleged Chinese hacking campaign last year, Microsoft, whose customers were targeted, said the hackers targeted critical infrastructure in Guam, a US territory that is key to US efforts to counter and deter China’s territorial ambitions in the Pacific. The US Marine Corps last year chose Guam as the place to open its first new base in 70 years, a facility that officials expect to host 5,000 Marines.
+ 
+  The intrusion of the Chinese hackers into US maritime and transportation networks have alarmed senior national security officials, who believe the hackers are there not to collect intelligence but to potentially cripple computer networks in the event of a US-China conflict. Rob Joyce, a senior National Security Agency official, has told CNN that the Chinese activity is “unacceptable” because of its potential disruptive effects.
+ 
+  “I think the difference here is how brazen it is in scope and scale,” Joyce told CNN last May.
+ 
+  The Chinese government has denied the allegations.
+ 
+  The heads of the FBI, NSA and other senior US officials are set to testify Wednesday on the Chinese cyber activity before the House select committee on the Chinese Communist Party.
+ See Full Web Article 
+
+      Go to the full CNN experience
+    
+ 
+    © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.
+   
+
+      Terms of Use
+    
+
+      |
+    
+
+      Privacy Policy
+    
+
+      |
+    
+
+      Ad Choices
+    
+
+      |
+    
+
+      Cookie Settings
+    

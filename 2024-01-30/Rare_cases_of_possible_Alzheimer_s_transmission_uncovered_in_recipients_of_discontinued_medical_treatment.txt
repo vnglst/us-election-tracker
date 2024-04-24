@@ -1,0 +1,89 @@
+Source: https://lite.cnn.com/2024/01/29/health/alzheimers-transmission-human-growth-hormone-treatment/index.html
+
+Rare cases of possible Alzheimer’s transmission uncovered in recipients of discontinued medical treatment
+
+
+  By Jacqueline Howard, CNN
+ 
+Updated: 
+        11:00 AM EST, Mon January 29, 2024
+     
+  Source: CNN
+ 
+  Early-onset dementia symptoms in five adults may be connected to a now-discontinued human growth hormone medical treatment that they received decades ago as children, a new study suggests.
+ 
+  The study, published Monday in the journal Nature Medicine, provides the first reported evidence of medically acquired Alzheimer’s disease in living people. In these cases, the patients’ early-onset dementia symptoms may be the result of the possible transmission of amyloid beta protein, which is a key component of Alzheimer’s disease when it forms plaques in the brain.
+ 
+  Abnormal buildup of the protein amyloid beta in the brain is associated with Alzheimer’s and the new study suggests that amyloid beta contamination may have a connection with the early dementia symptoms experienced by the patients in the study. The study findings do not suggest that Alzheimer’s disease can be contagious, or spread like viral or bacterial infections, for instance, but they raise new questions about Alzheimer’s and other degenerative diseases.
+ 
+  “I should emphasize these are very rare occurrences, and the majority of this relates to medical procedures that are no longer used,” John Collinge, lead author of the study and director of the University College London Institute of Prion Diseases, said in a news briefing.
+ 
+  All five adults had growth hormone deficiency as children and received pituitary growth hormones prepared in a specific way from cadavers. The pituitary gland is located at the base of the brain, and human growth hormone, or HGH, is a natural hormone the gland makes and releases, promoting growth in children.
+ 
+  Between 1959 and 1985, these patients were among the at least 1,848 people in the United Kingdom who were treated with a human growth hormone derived from a cadaver’s pituitary gland, according to the study. At the time, this treatment also was used in other parts of the world, including the United States. The treatment approach was discontinued after cases of a rare brain disorder called Creutzfeldt-Jakob disease were found to be associated with the administration of contaminated human growth hormone from cadavers.
+ 
+  The new study suggests that repeated exposure, over multiple years, to treatments with cadaver-derived HGH that had been contaminated by both prions associated with Creutzfeldt–Jakob disease and amyloid beta seeds could transmit Alzheimer’s disease. Prions are proteins that can act as transmissible agents of neurodegenerative diseases.
+ 
+  The researchers wrote in their study that Alzheimer’s disease may be transmissible, in certain circumstances, in a way similar to conditions known as “prion diseases” — a family of rare progressive neurodegenerative disorders known to be associated with prion proteins, including Creutzfeldt–Jakob disease or CJD. Although Alzheimer’s is not a prion disease, some separate research suggests that the two proteins that are hallmarks in Alzheimer’s disease — amyloid beta and tau — behave like prions.
+ 
+  “It looks like what’s going on in Alzheimer’s disease is very similar in many respects to what happens in the human prion diseases like CJD,” Collinge said in the news briefing. “It does raise implications about therapeutic approaches to Alzheimer’s disease.”
+ 
+  In 2015, the researchers previously described “possible evidence” that transmission of amyloid beta protein from a cadaver’s growth hormone to a recipient was feasible and then in 2018, they studied this in lab mice.
+ 
+  “We now provide evidence that Alzheimer’s disease is also transmissible in certain circumstances,” the researchers – from the University College London and National Hospital for Neurology and Neurosurgery in the United Kingdom – wrote in their study. Though they add that this type of transmission is “rare” and there is no suggestion that amyloid beta can be transmitted between people in everyday activities or modern-day routine medical care.
+ 
+  “After human growth hormones were no longer used in the 1980s due to concerns over Creutzfeldt-Jakob disease transmission, strict procedures were put in place to minimise cross-contamination. But in light of these findings, researchers recommend that medical procedures should be reviewed to ensure that rare cases of Alzheimer’s transmission like this do not happen in the future,” Dr. Susan Kohlhaas, executive director of research and partnerships at Alzheimer’s Research UK, said about the new study in a written statement distributed by the UK-based Science Media Centre.
+ 
+  “This study suggests that in very rare circumstances Alzheimer’s disease may be transmitted between humans via human growth hormone from deceased donors. It must be stressed that this treatment is no longer used today and has been replaced with synthetic growth hormone,” Kohlhaas said in the statement. “It’s also important to stress that this is the only recorded instance of Alzheimer’s transmission between humans.”
+ 
+  Dr. Richard Isaacson, who was not involved in the new study, said in an email that he has suspected for a while that Alzheimer’s disease may have some transmissibility similar to prion diseases, but prior research he has seen was unable to prove it.
+ 
+  “While it’s hard to say, there must be something different about how HGH may have infected recipients in this study when compared to prior work,” said Isaacson, director of research at the Institute for Neurodegenerative Diseases in Florida.
+ 
+  He added that “the public has nothing to fear” since this type of human growth hormone treatment is no longer in clinical practice, but the study emphasizes the importance of sterilization and decontamination of instruments in between surgeries.
+ 
+  While there is no suggestion that amyloid beta can be transmitted between individuals in day-to-day activities, “its recognition emphasizes the need to review measures to prevent accidental transmissions via other medical and surgical procedures,” researchers wrote in the study.
+ 
+  “I’m also intrigued by how these results may inform potential therapeutic targets and strategies in the future,” Isaacson said, regarding Alzheimer’s disease.
+ 
+  The researchers examined eight cases in which a person had a history of being treated with human growth hormone derived from a cadaver’s pituitary gland. All of them had been treated as children. Five of the patients were still alive during the study and were in their 50s. The three others had died at ages 57, 54 and 47.
+ 
+  The researchers found that five of the patients had symptoms consistent with early-onset dementia and three of those five had been diagnosed with Alzheimer’s disease before the study. Four of the patients started experiencing symptoms between the ages of 48 and 49. The remaining patient started having symptoms at 55.
+ 
+  “We have found that it is possible for amyloid-beta pathology to be transmitted and contribute to the development of Alzheimer’s disease,” Dr. Gargi Banerjee, the study’s first author and researcher at the University College London Institute of Prion Diseases, said in a news release.
+ 
+  “This transmission occurred following treatment with a now obsolete form of growth hormone, and involved repeated treatments with contaminated material, often over several years,” Banerjee said. “There is no indication that Alzheimer’s disease can be acquired from close contact, or during the provision of routine care.”
+ 
+  The new study is the first time that Dr. James Galvin, director of the Comprehensive Center for Brain Health at UHealth, the University of Miami Health System, has heard of Alzheimer’s disease transmission in humans.
+ 
+  “The cases were all very young onset, which would make one suspicious that there are extraneous factors involved. Typically, early onset is linked to genetic mutations, but as this was not found, the most likely common attributable cause would be the cadaveric growth hormone treatment. More investigation is needed,” Galvin, who was not involved in the study, said in an email.
+ 
+  “I would say at this point, there is nothing additional that we need to do as far as clinical practice, but this certainly lends itself to asking new scientific questions. Proteins involved in brain disease, such as prion protein in Creutzfeldt-Jakob disease and bovine spongiform encephalopathy, are transmissible,” he said. “Additionally, other proteins involved in disease, such as alpha-synuclein in Parkinson’s disease and Lewy body dementia, share some of these properties but do not appear to be transmissible. The science of amyloid and tau proteins in Alzheimer’s disease may need to be revisited.”
+ See Full Web Article 
+
+      Go to the full CNN experience
+    
+ 
+    © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.
+   
+
+      Terms of Use
+    
+
+      |
+    
+
+      Privacy Policy
+    
+
+      |
+    
+
+      Ad Choices
+    
+
+      |
+    
+
+      Cookie Settings
+    

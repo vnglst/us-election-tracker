@@ -1,0 +1,99 @@
+Source: https://lite.cnn.com/2024/01/29/tech/big-tech-ceos-youth-safety-senate-testimony/index.html
+
+Kids aren’t safe on social media, lawmakers say. Tech CEOs are back in DC to pledge (again) that they’ll handle it
+
+
+  By Brian Fung and Clare Duffy, CNN
+ 
+Updated: 
+        6:42 PM EST, Mon January 29, 2024
+     
+  Source: CNN
+ 
+  Congress will again grill the chief executives of several big tech companies this week, including Meta CEO Mark Zuckerberg, about potential harms from their products on teens. Until now, the social platforms have largely had the same response: We’ll help teens and families make smart decisions themselves.
+ 
+  But now, with growing claims that social media can hurt young users, including worries that it risks driving them to depression or even suicide, online safety advocates say that response falls far short. And with a presidential election looming — and state lawmakers stealing the spotlight from their federal counterparts — Congress is set to press tech companies to go beyond the tools they’ve rolled out in the past.
+ 
+  The chief executives of TikTok, Snap, Discord and X are set to testify alongside Zuckerberg at Wednesday’s Senate Judiciary Committee hearing. For some, including X CEO Linda Yaccarino, Snap CEO Evan Spiegel and Discord CEO Jason Citron, Wednesday’s hearing marks their first-ever testimony in front of Congress.
+ 
+  Many of the tech CEOs are likely to use Wednesday’s hearing to tout tools and policies to protect children and give parents more control over their kids’ online experiences.
+ 
+  Some companies, such as Snap and Discord, told CNN they plan to distance themselves from the likes of Meta by emphasizing they do not focus on serving users algorithmically recommended content in potentially addictive or harmful ways.
+ 
+  However, parents and online safety advocacy groups say many of the tools released by social media platforms don’t go far enough — largely leaving the job of protecting teens up to parents and, in some cases, the young users themselves — and that tech platforms can no longer be left to self-regulate.
+ 
+  “What the committee needs to do is to push these executives to commit to major changes, especially to disconnect their advertising and marketing systems from services that are known to attract and target youth,” said Jeff Chester, executive director of online consumer protection nonprofit the Center for Digital Democracy.
+ 
+  And the proliferation of generative artificial intelligence tools — which can give bad actors new ways to create and spread malicious content on social media — only raises the stakes for ensuring tech platforms have safety features built in by default.
+ 
+  Several major platforms — including Meta, Snapchat, Discord and TikTok — have rolled out oversight tools that allow parents to link their accounts to their teens’ to get information about how they’re using the platforms and have some control over their experience.
+ 
+  Some platforms, such as Instagram and TikTok, also introduced “take a break” reminders or screentime limits for teens and tweaked their algorithms to avoid sending teens down rabbit holes of harmful content, such as self harm or eating disorder media.
+ 
+  This month Meta announced a proposed blueprint for federal legislation calling for app stores, not social media companies, to verify users’ ages and enforce an age minimum.
+ 
+  Meta also unveiled a slew of new youth safety efforts that included hiding “age-inappropriate content” such as posts discussing self-harm and eating disorders from teens’ Instagram feeds and stories; prompting teens to turn on more restrictive security settings on its apps; a “nighttime nudge” that encourages teen users to stop scrolling on Instagram late at night; and changing teens’ default privacy settings to restrict people they don’t follow or aren’t connected to from sending them direct messages.
+ 
+  Snapchat earlier this month also expanded its parental oversight tool, Family Center, to give parents the option to block their teens from interacting with the app’s My AI chatbot and to give parents more visibility into their teens’ safety and privacy settings.
+ 
+  Wednesday’s hearing is just the latest instance of tech leaders appearing on Capitol Hill to defend their approach to protecting young users since Facebook whistleblower Frances Haugen brought the issue to the forefront of lawmakers’ minds in late 2021.
+ 
+  Online safety experts say that some of the new updates, such as restrictions on adult strangers messaging teens, are welcome changes, but that others still put too much pressure on parents to keep their kids safe.
+ 
+  Some also say the fact that it has taken platforms years, in some cases, to make relatively basic safety updates is a sign the companies can no longer be trusted to regulate themselves.
+ 
+  “It shouldn’t have taken a decade of predators grooming children on Instagram, it shouldn’t have taken massively embarrassing … lawsuits, it shouldn’t have taken Mark Zuckerberg being hauled before Congress next week,” for Meta and other platforms to make such changes, said Josh Golin, executive director of nonprofit children’s safety group Fairplay.
+ 
+  For their part, Meta and other platforms have said they’re aiming to walk a fine line: trying to keep young users safe without too strongly imposing views about what content is or isn’t appropriate for them to view, and instead aiming to empower parents to make those judgment calls.
+ 
+  As efforts to rein in tech platforms have ground to a standstill on Capitol Hill, much of the momentum for regulating social media has picked up outside the halls of Congress.
+ 
+  In recent years, Arkansas, Louisiana, Ohio, Utah, and others have passed laws restricting social media for teens, in many cases by establishing a minimum age for social media use or by requiring a tech platform to obtain parental consent before creating accounts for minors.
+ 
+  Whether these efforts will prove fruitful may ultimately depend on the courts.
+ 
+  Many of these laws are being actively challenged by the tech industry, which has argued that the legislation threatens the First Amendment rights of teens to access lawful information and risks harming Americans’ privacy by forcing tech platforms to collect age information, including potentially biometric data, from a wide range of users including adults.
+ 
+  Elsewhere, state-backed and consumer lawsuits against the companies are ramping up pressure to regulate tech platforms as the litigation reveals more about their inner workings.
+ 
+  “The lawsuits serve as a good place to see where a lot of this is happening,” said Zamaan Qureshi, co-chair of the youth-led coalition Design It For Us, a digital safety advocacy group. “We have all this new information and evidence … I think the tide has turned, or the temperature has changed.”
+ 
+  Lawmakers are as painfully aware as everyone else, Qureshi added, “that these folks are coming back for their umpteenth hearing.”
+ 
+  Wednesday’s hearing will mark the first opportunity for lawmakers to probe smaller industry players, like X and Discord, about their youth safety efforts.
+ 
+  Discord has come under increasing scrutiny due to its role in hosting leaked classified documents, an alleged stock manipulation scheme and the racist and violent messages of a mass shooting suspect.
+ 
+  Discord said it has been working to bring lawmakers up to speed about the platform’s basic structure and how it differs from more well-known platforms. Since November, company officials have met with the staff of more than a dozen Judiciary Committee members on both sides of the aisle, Discord said.
+ 
+  The hearing will also give lawmakers a chance to personally question X for the first time since its takeover by owner Elon Musk and the platform’s subsequent struggles with hate speech and brand safety. Ahead of Wednesday’s hearing, X announced plans for a new trust and safety center based in Austin, Texas.
+ 
+  “It is good to have multiple CEOs there because I think Meta gets the overwhelming majority of focus from both Congress and the media, but these are industry-wide problems that demand industry-wide solutions,” Golin said.
+ See Full Web Article 
+
+      Go to the full CNN experience
+    
+ 
+    © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.
+   
+
+      Terms of Use
+    
+
+      |
+    
+
+      Privacy Policy
+    
+
+      |
+    
+
+      Ad Choices
+    
+
+      |
+    
+
+      Cookie Settings
+    

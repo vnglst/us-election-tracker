@@ -1,0 +1,71 @@
+Source: https://lite.cnn.com/2024/01/29/tech/ai-robocalls-crackdown-house-democrats/index.html
+
+House Democrats propose crackdown on fake, AI-generated robocalls
+
+
+  By Brian Fung, CNN
+ 
+Updated: 
+        10:57 AM EST, Mon January 29, 2024
+     
+  Source: CNN
+ 
+  US lawmakers say they’re fighting back against the rise of artificial intelligence-powered scams and fraud with new legislation to overhaul the nation’s robocall rules.
+ 
+  The sweeping proposal by House Democrats is a direct response to incidents including the recent deepfake impersonating President Joe Biden, which targeted thousands of New Hampshire voters, or fraudsters cloning a loved one’s voice to trick victims into believing a kidnapping has occurred.
+ 
+  The number of robocalls placed in the US peaked at around 58.5 billion in 2019, according to estimates by YouMail, a robocall blocking service. Last year, the figure was closer to 55 billion.
+ 
+  The new bill would vastly expand the definition of a robocall to include any call or text message that includes artificially generated or prerecorded messages, according to a summary of the legislation reviewed by CNN. And it would double the potential fines for violations of US robocall rules that involve the use of AI to impersonate people.
+ 
+  For all robocalls, including those Americans have authorized from their bank or doctor’s office, any use of AI would have to be disclosed under the proposed law.
+ 
+  The new restrictions would apply equally to political and non-political robocalls, said a spokesperson for Rep. Frank Pallone, the leading Democrat on the House Energy and Commerce Committee and a leading sponsor of the bill, known as the Do Not Disturb Act.
+ 
+  The legislation aims to close what lawmakers describe as loopholes under current law that robocallers can exploit without accountability, including what constitutes a robocall.
+ 
+  In 2021, the Supreme Court effectively narrowed the definition of a robocall when it unanimously affirmed a strict interpretation of the language used to describe an autodialer in earlier legislation.
+ 
+  The push comes amid a wider crackdown on robocalls by states and agencies such as the Federal Communications Commission, which in 2022 moved to shut down one of the largest auto warranty scam call operations in history.
+ 
+  Regulators have also pushed to step up rules governing robocalls and texts and, in some cases, have forcibly disconnected phone providers from the US telephone network that are accused of facilitating unwanted calls.
+ 
+  Industry experts say the government is now better equipped to identify the source of illegal robocalls thanks to advances in technology mandated by previous legislation Pallone co-authored in 2019, known as the TRACED Act. That information helps authorities zero in on bad actors.
+ 
+  But even as officials have gained some ground on unwanted robocalls, those making the calls are increasingly turning to new technologies such as artificial intelligence to stay a step ahead.
+ 
+  Monday’s legislation also aims to give new tools to the FCC and the Federal Trade Commission that will help them go after scammers and to seek tougher penalties, including fines.
+ 
+  It would also seek to force phone providers to offer free robocall-blocking services to consumers and require the FCC to maintain a public list of the top 100 illegal robocall campaigns.
+ 
+  “Today I’m introducing legislation that brings anti-robocall protections into the 21st century and ensures illegal robocallers and scam artists can’t exploit new loopholes even as technology continues to evolve,” Pallone said in a statement.
+ 
+  Other Democratic co-sponsors of the legislation include Illinois Rep. Jan Schakowsky, California Rep. Doris Matsui, Florida Rep. Darren Soto and Illinois Rep. Eric Sorensen.
+ See Full Web Article 
+
+      Go to the full CNN experience
+    
+ 
+    © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.
+   
+
+      Terms of Use
+    
+
+      |
+    
+
+      Privacy Policy
+    
+
+      |
+    
+
+      Ad Choices
+    
+
+      |
+    
+
+      Cookie Settings
+    

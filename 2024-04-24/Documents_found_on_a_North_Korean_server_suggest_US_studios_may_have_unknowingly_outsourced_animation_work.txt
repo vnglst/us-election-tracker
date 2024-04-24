@@ -1,0 +1,123 @@
+Source: https://lite.cnn.com/2024/04/22/politics/us-animation-studio-sketches-korean-server/index.html
+
+Documents found on a North Korean server suggest US studios may have unknowingly outsourced animation work
+
+
+  By Sean Lyngaas, CNN
+ 
+Updated: 
+        11:12 AM EDT, Tue April 23, 2024
+     
+  Source: CNN
+ 
+  North Korean illustrators and graphic designers appear to have helped produce work for US animation studios unbeknownst to those companies, suggesting that unreleased episodes of a few popular American cartoons could include work from one of the most closed-off economies in the world.
+ 
+  The revelation comes from a trove of documents recently discovered by US researchers inside a computer server housed in North Korea. It’s unclear how the files ended up in this tightly controlled portion of the internet, but the researchers who analyzed them told CNN they appear to be the result of work that was unknowingly outsourced to North Korean workers.
+ 
+  The US has imposed strict sanctions prohibiting American companies from doing business with the nuclear-armed regime.
+ 
+  In addition to drawings for an upcoming season of the Amazon Prime Video show “Invincible,” the files also contain sketches and videos that resemble work for “Iyanu: Child of Wonder,” a superhero series slated to air on Max, the streaming service that, along with CNN, is owned by Warner Bros. Discovery.
+ 
+  There is no evidence that the studios had any knowledge their proprietary work was on a North Korean server.
+ 
+  The files were discovered in December by Nick Roy, a Boston-based cyber-sleuth who regularly scans the North Korean internet as a hobby. Roy found a new North Korean website that outside visitors didn’t need a password to access, unlocking a trove of animation sketches, and shared them with the Stimson Center, a Washington-based think tank.  
+ 
+  The documents include a series of Chinese instructions that have been translated into Korean. They call for making adjustments to the size and style of the animation. Among the documents, there is also an editing sheet written in English with specifications for animation work with “Invincible” printed atop.
+ 
+  The discovery raises questions about the ability of US tech and creative arts companies to control their supply chains and avoid work that could inadvertently violate sanctions banning countries from doing business with North Korea.
+ 
+  They also offer a rare window into how graphic designers operate in one of the world’s most closed countries. A 2022 public advisory warning from the FBI and departments of State and Treasury mentions animation as one of many sectors where North Korean IT workers ply their trade. US officials are particularly concerned that North Korean workers are posing as other nationalities to get hired at US companies.
+ 
+  Logs from the North Korean computer server showed multiple visits from internet connections in northeast China, the US cybersecurity firm Mandiant told CNN. Both Roy and Michael Barnhart, a North Korea specialist at Mandiant, told CNN that those log files suggest workers in China may have been passing along instructions to their North Korean counterparts on the animation projects.
+ 
+  Other computers from within North Korea also appear to have been connecting to the computer server, Roy said, suggesting there were people accessing the animation files not only in China but also in North Korea.
+ 
+  In a statement to CNN, California-based Skybound Entertainment, which produces “Invincible” for Amazon, said it does not contract with Chinese or North Korean companies and has no knowledge of such companies working on “Invincible.” Skybound Entertainment said it would investigate the research that CNN presented.
+ 
+  “Our contracts specifically prohibit outsourcing to any third-party without our express prior written consent, and no such consent has been sought nor granted,” Skybound Entertainment spokesperson Hannah Cosgrove said. Skybound Entertainment is “taking this matter very seriously” and has “started an investigation to get to the bottom of this with third party counsel,” Cosgrove added.
+ 
+  Max declined to comment. Maryland-based YouNeek Studios, which co-created the “Iyanu” graphic novel series that the animated show is based on, did not respond to requests for comment. US-based Lion Forge Entertainment, which is producing the “Iyanu” animated show, declined to comment.
+ 
+  A source familiar with the matter told CNN that Lion Forge Entertainment contracted with a South Korea-based animation studio for the work. But late last year, the source said, Lion Forge discovered that the South Korean studio had further outsourced animation work for Iyanu to other South Korean companies without authorization. Lion Forge severed ties with the South Korean animation studio in January, the source said.
+ 
+  The South Korean studio told Lion Forge that it had outsourced the work only to South Korean companies, not any entity in North Korea, the source added.
+ 
+  After discovering the files, Roy shared them with his friend Martyn Williams, a North Korea expert and senior fellow at the Stimson Center, which analyzed the files. Williams and his colleagues concluded that they looked like part of a work order.
+ 
+  “It looks very much like this is all working-level editing files for these animations,” Williams said.
+ 
+  “The North Koreans have a lot of software companies set up in China that act as kind of fronts and will send information, send work back to Pyongyang, where the work is done,” Williams told CNN.
+ 
+  The think tank found no evidence to suggest the American companies were aware of the activity, he added. Because the editing comments on the files were written in Chinese, “it is likely that the contracting arrangement was several steps downstream from the major producers,” the Stimson Center’s 38 North project, which focuses on North Korea, says in a report published Monday.
+ 
+  The North Korean regime has long been enamored with movie studios and animation as a vehicle for propaganda and a source of revenue, according to experts. North Korea was more advanced in animation than South Korea for several years after the Korean Peninsula was split following World War II.
+ 
+  North Korea’s main animation studio is Pyongyang-based SEK Studio, which was founded in the 1950s and has contracted with a range of foreign companies over the years. The US Treasury Department sanctioned SEK Studio in 2021 for being connected to the North Korean regime.
+ 
+  “Seemingly fueled by the desire for unreasonably low-cost labor, foreign media companies continue to subcontract animation work to SEK Studio,” the Treasury Department said in a statement announcing the sanctions. The studio uses “animation workers” in North Korea and China, the department said.
+ 
+  Williams suspects SEK Studio may be involved in the animation work discovered on the computer server because SEK is the only entity in North Korea capable of handling this kind of volume.
+ 
+  Battered by sanctions and strapped for cash, the North Korean regime has turned to thousands of IT workers living abroad to bring in hard currency, according to US officials and private experts.
+ 
+  Since the 2022 advisory, FBI agents and State and Treasury officials have been quietly trying to raise awareness of the North Korean insider threat by conducting briefings for business executives and chasing down leads about potential North Korean IT workers at US companies.
+ 
+  Barnhart, the Mandiant researcher, said any company that hires a North Korean IT worker runs the risk of being targeted by North Korean hackers because of the close relationship between the two.
+ 
+  “There are a lot more overlaps that we’re beginning to see with these IT workers and [North Korean hackers],” Barnhart told CNN.
+ 
+  A previous CNN investigation found that the founder of a California-based cryptocurrency startup had unwittingly paid tens of thousands of dollars to a North Korean engineer. The entrepreneur was unaware of the situation until the FBI notified him, he said.
+ 
+  As for the recently discovered North Korean server, Mandiant made a report of its findings — that the server appeared to be hosting content from US animation studios — available to government agencies, including the FBI, Barnhart said.
+ 
+  The FBI declined to comment.
+ 
+  CNN has requested comment from North Korea’s observer mission to the United Nations in New York and the North Korean Embassy in London.
+ 
+  A Treasury Department spokesperson told CNN the department does not comment on potential or hypothetical sanctions violations.
+ 
+  “Treasury remains concerned about North Korean efforts to generate revenue for their weapons programs, including through cybercrime and the abuse of contractors, and urges industry to be vigilant against any attempts to evade sanctions,” the spokesperson said in a statement.
+ 
+  Roy, the independent researcher, has been scanning North Korean internet infrastructure for nearly a decade from his studio in Boston and elsewhere. He does it, he says, to help close the “gap in information” that outsiders have about the East Asian country.
+ 
+  The North Korean internet has just over 1,000 IP addresses, the unique identifiers that allow a computer to connect to the public internet, according to Roy. The US has over 1.5 billion IP addresses.
+ 
+  The sketches reviewed by CNN wouldn’t look out of place at a big animation studio anywhere in the world. There are superheroes with sharp jaw lines and muscular features, and cape-wearing anime-style figures with tousled hair and darting eyes.
+ 
+  Heinz Insu Fenkl, an expert in North Korean comics, said that animation and comics have been prominent in North Korean society since the country’s founding in 1948.
+ 
+  Today, North Korean comics are sold in street markets in northeast China and bring in precious revenue for the regime, he added.
+ 
+  “Because North Korea does so much of the groundwork of animation, they have the technology,” Fenkl said. “They spend a lot of energy and money keeping their technology updated in those areas.”
+ 
+  But recent advancements in animation in North Korea have also come in part by simply ripping off Western production companies, according to Fenkl.
+ 
+  “That’s why you can probably see things like production sketches while an animation project is going on because there may well be [someone] who is not known to be a North Korean working at that studio,” he told CNN.
+ See Full Web Article 
+
+      Go to the full CNN experience
+    
+ 
+    © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.
+   
+
+      Terms of Use
+    
+
+      |
+    
+
+      Privacy Policy
+    
+
+      |
+    
+
+      Ad Choices
+    
+
+      |
+    
+
+      Cookie Settings
+    

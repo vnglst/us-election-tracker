@@ -1,0 +1,83 @@
+Source: https://lite.cnn.com/2024/02/05/tech/landline-phone-service-phasing-out/index.html
+
+Still love your landline? Phone service providers are getting closer to phasing it out
+
+
+  By Samantha Murphy Kelly, CNN
+ 
+Updated: 
+        4:23 PM EST, Mon February 5, 2024
+     
+  Source: CNN
+ 
+  More people who are still using telephone landlines will soon need to decide if they want to finally hang up on their service.
+ 
+  Just last week, AT&T applied for a waiver that would allow it to stop servicing traditional landlines in California. AT&T and Verizon previously stated they want to be fully operational on newer infrastructure within the next few years.
+ 
+  That’s part of a sweeping move by phone service providers to replace older copper wire-based telephone systems lines, also known as Plain Old Telephone Service (POTS), with faster and more advanced technology that doesn’t work with landlines.
+ 
+  Providers worldwide are shifting toward offering fiber optics and ethernet access and retiring older equipment, including the copper wires themselves. The process is also currently underway in France and the UK.
+ 
+  Consumers will have to decide whether to give up their landlines or potentially face higher costs because of complex, expensive workarounds from the phone companies. The alternatives might not be as reliable as old-fashioned landlines either, and the process of switching the old equipment for the new could be a massive undertaking.
+ 
+  “We’ve seen a precipitous decline in demand for telephone services provided over our copper networks,” an AT&T spokesperson told CNN. “We are focused on enhancing our network with more advanced, higher speed technologies like fiber and wireless, which consumers are demanding.”
+ 
+  The spokesperson added that AT&T is “not canceling landline service in California” and none of its customers will lose access to voice service if the waiver application is approved by the California Public Utilities Commission.
+ 
+  As part of the change, US service providers are required to offer customers an alternative to landlines and use devices to convert analog signals to digital, either through fiber optic cables or wireless technology, like LTE/5G.
+ 
+  In the United States, the shift away from copper landlines will most likely impact people over age 65 and small business owners.
+ 
+  “The impact is pretty wide – certainly seniors or people living in areas where reliable power is a problem … so areas prone to hurricanes have a higher incidence of analog service than, say, Pennsylvania,” said Lisa Pierce, a research vice president at market research firm Gartner.
+ 
+  Small businesses are also poised to be impacted, along with anyone with an analog fax machine, including hospitals, clinics and doctor’s offices. Conversions, which will cost customers anywhere between $200 - $400, will also need to occur with any analog alarms and emergency call boxes inside elevators.
+ 
+  Certain areas could be more impacted by the change, too. Patrick Blacklock, president and CEO of the Rural County Representatives of California (RCRC), told CNN in a statement there are “significant concerns” with AT&T’s application and has asked the California Public Utilities Commission to reject the application.
+ 
+  “Traditional landline telephone service is the most dependable communications tool currently available in rural communities and is vital to reliably accessing 9-1-1,” he said. “It is essential to retain affordable, safety net services especially in disaster-prone areas with fewer market options and comparable service quality that copper-based landline phone service provides.”
+ 
+  Pierce projects there will only be about 5% of landlines remaining by 2030. But to remove all of them, she said, it “could take even longer – decades.” About 100 million landlines between business and residential are currently active in the US, she said.
+ 
+  Over the years, the Federal Communications Commission has let phone companies charge less to get more people to switch to Voice over Internet Protocol (VoIP) systems, which supports voice integration with other internet-based services.
+ 
+  The cost for fixed wireless access typically runs about a $69 month, while ethernet costs about $100.
+ 
+  A few major challenges exist with fully doing away with copper landlines and the related equipment, according to Will McKeon-White, a senior analyst at Forrester Research.
+ 
+  For example, not all buildings with landline systems know where their equipment is — some are cemented to factory walls or stored in rooms that are hard to access. Because phone service workers will need to be deployed during the removal process, this could extend the completion time. 
+ 
+  “Landlines are slowly being removed and replaced, but it’s a spectrum, and hard to calculate the volume of copper wire devices because of how many different forms these take and the fact that organizations seem to discover dozens of these devices during replacement operations,” McKeon-White said.
+ 
+  In addition, sometimes copper lines can be more reliable than VoIP services because the copper-based systems can still work even when the power is out, unlike Internet-based systems. Rural areas also often don’t have dependable high-speed Internet service.
+ 
+  “Unfortunately, some regions don’t have effective cell coverage or broadband internet yet but do have landline coverage,” said Blacklock, of the rural California representatives group.
+ 
+  The California Public Utilities Commission will hold 3 in-person meetings and 1 virtual public forum in the next few weeks for AT&T customers to discuss the potential discontinuation of copper landline phone service across the state.
+ See Full Web Article 
+
+      Go to the full CNN experience
+    
+ 
+    © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.
+   
+
+      Terms of Use
+    
+
+      |
+    
+
+      Privacy Policy
+    
+
+      |
+    
+
+      Ad Choices
+    
+
+      |
+    
+
+      Cookie Settings
+    

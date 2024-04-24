@@ -1,0 +1,99 @@
+Source: https://lite.cnn.com/2024/01/28/success/income-tax-returns-2023-explained/index.html
+
+Tax season has started: 8 things to do before you file
+
+
+  By Jeanne Sahadi, CNN
+ 
+Updated: 
+        11:28 AM EST, Mon January 29, 2024
+     
+  Source: CNN
+ 
+  Tax filing season has begun. The Internal Revenue Service is now accepting and processing 2023 federal income tax returns.
+ 
+  Filing your taxes is a task you may not like, but it’s one you can’t ignore — at least not without a potentially hefty penalty.
+ 
+  Here are eight things that can make the experience of preparing and filing your taxes as easy, efficient and inexpensive as possible.
+ 
+1. Know your deadlines: Unless you file for an automatic six-month extension, the filing deadline for most people is April 15. And even if you get an extension, April 15 is the day by which you must pay any remaining taxes you owe for 2023, even if you don’t file by that date. Otherwise you may face a late payment penalty — with interest.
+ 
+  Tax filers in Maine and Massachusetts, however, have until April 17 to file and pay, due to those states’ holiday observance of Patriots’ Day and Emancipation Day.
+ 
+  If you live or do business in a federally declared disaster area, the IRS likely has extended the deadline for you to file and pay. Here is the list of places where tax relief is available.
+ 
+2. Pull out your return from last year: Your 2022 tax return will give you a good starting point for figuring out what documents you need to have handy to fill out this year’s return, said Tom O’Saben, director of tax content and government relations at the National Association of Tax Professionals.
+ 
+  That’s especially the case if, like many people, you’ve told all your financial record keepers (eg, employers, banks, brokerages, insurers, etc.) not to send you paper documents.
+ 
+  You need to go back to all those sources online to see what 2023 tax forms they have created for you and filed with the IRS. Ditto if you collected unemployment last year or had any other one-off payments that are potentially taxable.
+ 
+  “We say we don’t want paper documents. But that doesn’t mean a document doesn’t exist,” O’Saben said.
+ 
+3. Assess what big changes, if any, occurred in your life in 2023: If you got married or divorced, had a baby, became widowed, sold a home or other big investment, started receiving Social Security, moved to a new state, or underwent any other major life transition last year, that may change your tax liability (or refund) from what it was on your 2022 return.
+ 
+  If nothing major changed for you, but you find you have a very big difference in your tax liability or refund when you fill out your return, check your math.
+ 
+  “Tax laws are not dramatically different this year than last year. [So] it may be a simple data entry error,” O’Saben said.
+ 
+4. Have a small business or side gig? Check if you got a 1099-K from a payment app: If you got paid through third-party payment apps like Venmo for side gigs or a small business, check your account online to see if the company issued you a 1099-K.
+ 
+  The IRS has once again delayed implementation of t﻿he rule requiring third-party payment providers from having to provide 1099-Ks for business transactions that in total exceed $600 a year. However, some states already require the forms be issued when transactions exceed that threshold, O’Saben said.
+ 
+  If you did get a 1099-K, make sure all the transactions reported on it reflect true business transactions and not personal items like your friends paying you for their share of dinner. If the form does include some personal transactions, include all the information from your 1099-K on your return, but exclude those personal transactions and include a note alerting the IRS that the amount you subtracted is not business income, O’Saben advised.
+ 
+5. Fill out this form if you qualify for premium tax credits for your health insurance: If you received advanced premium tax credits to help pay for health insurance you bought on the public exchange, he noted, you must fill out Form 8962. Information you’ll need to include on it will come from Form 1095-A that should have been issued to you. The same applies if you think you qualify for premium tax credits but didn’t receive them, according to the IRS.
+ 
+6. Keep an eye on Congress for potential increases in two tax breaks: Lawmakers are still duking it out over the specifics of a bipartisan tax package that contains two provisions that could save money for some filers claiming the child tax credit and for small business owners.
+ 
+  Should the package become law, the Child Tax Credit could be expanded to temporarily enable lower income families to claim more of the credit on their 2023 tax returns. (More on that here.)
+ 
+  The same tax package also would increase how much small business owners can write off from the purchase of new equipment. Currently, you’re allowed to deduct 80% of the cost the year you buy it. If the current tax bill becomes law, that amount would go up to 100%.
+ 
+  If you think those provisions affect you, you can wait to see how things shake out, assuming Congress votes in the next week or two. Or you can prepare your return and file it once you are sure it is accurate and complete. Should Congress pass its tax package with a provision that may benefit you, IRS Commissioner Danny Werfel told reporters that the agency will incorporate those changes on your return so you won’t have to take further action.
+ 
+  “Don’t wait on Congress. If there’s a change impacting your return, we will make the change and send you an update,” Werfel said.
+ 
+7. Speed your refund: If you are owed a refund (like the majority of tax filers), the IRS typically issues them within 21 days of accepting your return. But note that if you are claiming an Earned Income Tax Credit, the IRS cannot by law issue the EITC-related refund before mid-February and it estimates that those refunds will be available for filers starting February 27. But, O’Saben said, there is a chance the IRS will send you the non-EITC portion of your refund sooner than that.
+ 
+  In any case, the best way to ensure you get your refund as quickly as possible is to fill out your return accurately and completely, electronically file it and select “direct deposit” when asked how you want to receive payment. So before sending it in,  double-check your math, and make sure your name, address and Social Security number are correct. Be sure, too, to report all of your taxable income for the year — including money from a salaried job, dividends and interest, rental income and any business income you have received through payment apps as well as other means, including cash.
+ 
+  Here is a list of the most common and costly tax return mistakes the IRS has seen over the years.
+ 
+  To find out how quickly you are likely to get your refund once you have submitted your return, you can use the agency’s Where’s My Refund tool.
+ 
+8. You may be able to file for free: It has been the case for a while now that if your income is low enough (this year, $79,000 or less) and if you have a simple enough return, you could prepare and electronically file your federal tax return for free with select tax software providers.
+ 
+  But this year, the IRS has launched a pilot program called Direct File that lets you do all of that directly without the middleman. The pilot is being launched on a limited basis for now. The program will only operate in 12 states this year: Arizona, California, Florida, Massachusetts, Nevada, New Hampshire, New York, South Dakota, Tennessee, Texas, Washington and Wyoming. Initially, it will only be available for federal and state government employees in those states. In a month or two, it may also be open to some private sector workers.
+ 
+  There is no income limitation on who may use the program, but Direct File can’t be used by filers who itemize their deductions. And it won’t be open to those with very different types of income outside of your W-2 earnings from employers, Social Security benefits, interest income and unemployment compensation. Lastly, the program cannot be used to file your state returns, so you’ll have to do that separately but your state may have its own free file program. (More details on the federal Direct File program are here.)
+ 
+CNN’s Katie Lobosco and Tami Luhby contributed to this report.
+ See Full Web Article 
+
+      Go to the full CNN experience
+    
+ 
+    © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.
+   
+
+      Terms of Use
+    
+
+      |
+    
+
+      Privacy Policy
+    
+
+      |
+    
+
+      Ad Choices
+    
+
+      |
+    
+
+      Cookie Settings
+    

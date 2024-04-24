@@ -1,0 +1,119 @@
+Source: https://lite.cnn.com/2024/01/29/politics/tax-season-irs-digitizing-paper/index.html
+
+As tax season begins, the IRS faces a monumental task: Digitizing a billion pieces of paper
+
+
+  By Katie Lobosco, CNN
+ 
+Updated: 
+        6:00 AM EST, Mon January 29, 2024
+     
+  Source: CNN
+ 
+  As Americans prepare to file their 2023 federal tax returns, the Internal Revenue Service is getting ready to take on one of its biggest challenges: Digitizing all of its paper.
+ 
+  Even though the vast majority of people file their federal tax returns electronically, the IRS still receives millions of paper tax returns a year, along with other kinds of forms and correspondence sent via snail mail.
+ 
+  All told, there are more than 1 billion historical paper documents stored at IRS campuses across the country, and there will soon be more paper coming in with the start of the 2024 tax filing season Monday. Last year, the tax agency received more than 26 million individual and business returns filed on paper.
+ 
+  “I call it the mythical land of files,” one IRS official working on the paperless initiative told CNN.
+ 
+  One of the problems is that the IRS has not had the technology to digitize a paper tax return or form. Instead, an IRS employee manually enters each digit from the form into the agency’s system – a process that resulted in transcription errors on about 22% of paper returns in 2021.
+ 
+  The process takes time and resources – all of which could mean taxpayers are waiting longer for their federal tax refund.
+ 
+  “This doesn’t just seem crazy. It is crazy,” wrote Erin M. Collins, the National Taxpayer Advocate, nearly two years ago. She has often referred to paper as the “IRS’s Kryptonite.”
+ 
+  The solution has been clear for some time: Invest in scanners and newer technology so that paper documents can be digitized as soon as they’re received by the IRS.
+ 
+  But it wasn’t until the IRS was allocated $80 billion from the Democrat-backed Inflation Reduction Act in 2022 that the agency finally implemented a large-scale plan to fix the paper problem.
+ 
+  The improvements have already begun. By the end of 2023, the IRS had purchased 132 high-speed scanners. The agency’s ambitious goals are to digitally process all incoming paper tax returns when they arrive as well as digitize the 1 billion historical documents by the 2025 filing season. Going paperless could save the agency $40 million a year in storage fees, the IRS has said.
+ 
+  The paperless initiative is key to the agency’s broader plans to modernize taxpayer services and ramp up enforcement efforts after decades of underfunding and shrinking staff levels.
+ 
+  The IRS is moving ahead with its broad overhaul plan despite a successful effort to claw back $20 billion of the new $80 billion investment by Republicans, who have repeatedly targeted the agency’s funding. But future reductions could put the IRS’ modernization plans in jeopardy.
+ 
+  “Cutting off funding will impede our ability to provide effective taxpayer service,” said IRS Commissioner Danny Werfel last week on a call with reporters.
+ 
+  “All of the things we want to do to improve taxpayer service is impacted,” he added.
+ 
+  To help one visualize how much paper the IRS takes in, picture this: Paper documents overflowed into trailers during the Covid-19 pandemic when many IRS employees worked from home and could not open the mail.
+ 
+  Once mail was opened, paper documents eventually filled an IRS cafeteria in Austin, Texas, because there was nowhere else to store them. The cafeteria has since been cleared of the files and has returned to normal use.
+ 
+  Some people like to file their federal tax returns on paper – and they will still be allowed to do so. The IRS does not plan to take away that option.
+ 
+  But in addition to tax returns, the IRS also receives forms and other kinds of correspondence from taxpayers. For example, taxpayers may be asked to send proof that they are eligible for certain tax credits and deductions or to provide information regarding an incident of identity theft.
+ 
+  The IRS has said it receives about 125 million of these forms and notices on paper each year.
+ 
+  Currently, some of these documents must be submitted on paper because the IRS does not provide a way for taxpayers to send them electronically.
+ 
+  To address this part of the paper problem, the IRS is working on digitizing these forms and notices too. The agency expects taxpayers will be able to electronically file 20 additional tax forms in 2024.
+ 
+  Separately, the IRS launched an online tool last year that allows taxpayers to upload scans or photos of documents that previously would have had to be sent through the mail.
+ 
+  Historically, processing a paper tax return can require up to seven people and take several weeks – if not months – depending on the complexity of the return and whether there’s an existing backlog.
+ 
+  With a new digitization process in place, the IRS official said the agency plans to eliminate at least two of those steps – including the tedious, manual input of each digit and letter into the electronic system, as well as “document perfection,” during which returns are reviewed to see if any signatures, required schedules or other data are missing.
+ 
+  The goal is to get processing time close to about 21 days, according to the IRS official. That’s the same amount of time the agency aims to issue refunds for taxpayers who file electronically.
+ 
+  The first step of processing paper returns will likely stay the same even after the digitization initiative is fully in place. Someone has to open the mail and prepare the documents to move through the rest of the process.
+ 
+  If there are paper clips or staples, an IRS worker must remove them. Edges of the documents may have to be flattened. This first step can take longer than one would think, given that people send in documents to the IRS in all kinds of fashion. According to agency lore, a return was once filed on a T-shirt.
+ 
+  “We’ve received returns in many creative formats. This often delays processing because the documents are unreadable or require special handling,” said the IRS official.
+ 
+  Remaining steps involve resolving any errors that may prevent the complete processing of a return.
+ 
+  The IRS has been notoriously behind when it comes to technology.
+ 
+  One reason the IRS has been slow to improve its processes is that the agency faced funding cuts for many years. Notably, the agency’s appropriations from Congress fell 20% between 2010 and 2018, which resulted in the elimination of 22% of its staff at the time, according to the Congressional Budget Office.
+ 
+  But funding is not the only thing holding back the IRS.
+ 
+  Historically, the public and lawmakers have often raised concerns about whether the IRS could be improperly using taxpayer funds. Recently, some Republican lawmakers calling for funding cuts have repeatedly made the exaggerated claim that the new investment at the IRS would be used to hire 87,000 auditors who will target hardworking Americans.
+ 
+  “The culture at the IRS is just pretty conservative. If things go wrong, they are most likely to step back rather than to charge forward and fix things on the fly,” said Mark Everson, who served as commissioner of the IRS from 2003 to 2007 and is now a vice chairman at alliantgroup, a tax consulting services firm.
+ 
+  “The hole they’re trying to crawl out of is decades in the making,” he added.
+ 
+  It’s true that nearly 60% of the new funds from the Inflation Reduction Act are expected to be used for strengthening enforcement, though the Biden administration has repeatedly said that taxpayers earning less than $400,000 a year won’t see an increase in taxes as the IRS expands its enforcement efforts.
+ 
+  The idea is to go after wealthy tax cheats and corporations, which, in turn, is expected to bring in more federal tax revenue and help reduce the federal deficit. So far, the IRS has used Inflation Reduction Act funds to help collect $482 million from millionaires who had not paid their tax debts.
+ 
+  The rest of the investment is set to go toward modernizing taxpayer services. In addition to the IRS’ paperless initiative, it has also increased phone service and will launch a free tax filing service later this year.
+ 
+  The IRS has also made improvements to its existing online tool known as “Where’s My Refund?” so that it gives taxpayers more detailed information about the status of their refund after they’ve filed their federal tax return.
+ 
+  With more documents digitized, it will be easier for taxpayers and IRS employees to access data in real time to check on the status of a refund, for example. When a taxpayer calls the IRS, the goal is for the customer service representative to have that person’s information at their fingertips – even if the information was filed on paper.
+ See Full Web Article 
+
+      Go to the full CNN experience
+    
+ 
+    © 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.
+   
+
+      Terms of Use
+    
+
+      |
+    
+
+      Privacy Policy
+    
+
+      |
+    
+
+      Ad Choices
+    
+
+      |
+    
+
+      Cookie Settings
+    

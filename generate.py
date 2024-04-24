@@ -58,7 +58,7 @@ print("Done.")
 
 
 def get_answer(question):
-    llm = Ollama(model="mistral")
+    llm = Ollama(model="llama3:instruct")
 
     service_context = ServiceContext.from_defaults(
         llm=llm, embed_model="local")
